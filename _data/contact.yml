@@ -3,11 +3,9 @@
 -
   type: github
   icon: 'fab fa-github'
-  noblank: true
 -
   type: twitter
   icon: 'fab fa-twitter'
-  noblank: true
 -
   type: email
   icon: 'fas fa-envelope'
