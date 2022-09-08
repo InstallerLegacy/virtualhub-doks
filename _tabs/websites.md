@@ -1,7 +1,7 @@
 ---
 title: Our other websites
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 > [VirtualHub Setup](https://setup.virtualhub.eu.org){:target="_blank"} - Set up you system for VirtualHub.
