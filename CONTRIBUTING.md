@@ -1,0 +1,34 @@
+# How to contribute to VirtualHub?
+
+First of all thank you for showing your interest in contributing
+to the VirtualHub website. If you contribute to this
+project, you contribute to the large effort of conserving old
+software.
+
+VirtualHub is a continuous project. It's goal is to provide
+instructions for installing old Operating Systems and other old
+software on Virtual Machines and emulators.
+
+I will probably create most of the tutorials here myself in
+the order of their release, but you may want to see a tutorial
+sooner or I may have forgotten a software. You may also want a
+tutorial on installing the OS or other software on a specific
+Hypervisor or emulator which I have not covered. In that case,
+you may use
+[Github Issues](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/issues) 
+to ask for a specific tutorial.
+
+You may want to report errors in the existing tutorials.
+You can use [Github Issues](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/issues)
+for that also. If you now enough about Jekyll to make an edit
+yourself then you are welcome to fork, make the edit and open
+a pull request.
+
+If you have enough knowledge of Jekyll and installing old 
+Operating System in Virtual Machines or Emulators, you can
+contribute a tutorial by creating a pull request. You will be
+given appropriate credits. If you have any questions, you can
+contact me at
+[contact@virtualhub.eu.org](mailto:contact@virtualhub.eu.org).
+
+Than You once again for showing interest in this project.
