@@ -31,4 +31,4 @@ given appropriate credits. If you have any questions, you can
 contact me at
 [contact@virtualhub.eu.org](mailto:contact@virtualhub.eu.org).
 
-Than You once again for showing interest in this project.
+Thank You once again for showing interest in this project.
