@@ -8,7 +8,7 @@
 
 Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
 
-So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot.com/), our main website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.
+So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot.com/), our old website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.
 
 VirtualHub is a static site and it is fast. I first used [Publii](https://getpublii.com/) to create and manage it. This enabled me to write and edit tutorials offline and publish it after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient unlike WordPress.
 
