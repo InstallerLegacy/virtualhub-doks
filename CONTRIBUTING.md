@@ -15,12 +15,12 @@ sooner or I may have forgotten a software. You may also want a
 tutorial on installing the OS or other software on a specific
 Hypervisor or emulator which I have not covered. In that case,
 you may use
-[Github Issues](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/issues) 
+[Github Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues) 
 to ask for a specific tutorial.
 
 You may want to report errors in the existing tutorials.
-You can use [Github Issues](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/issues)
-for that also. If you now enough about Jekyll to make an edit
+You can use [Github Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues)
+for that also. If you know enough about Jekyll to make an edit
 yourself then you are welcome to fork, make the edit and open
 a pull request.
 
