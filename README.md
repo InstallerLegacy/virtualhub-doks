@@ -12,7 +12,7 @@ So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot
 
 VirtualHub is a static site and it is fast. I first used [Publii](https://getpublii.com/) to create and manage it. This enabled me to write and edit tutorials offline and publish them after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient, unlike WordPress.
 
-But Publii had its limitations, so I began to search for an alternative. This version of VirtualHub is built using [Jekyll](https://jekyllrb.com/)](https://jekyllrb.com/).
+But Publii had its limitations, so I began to search for an alternative. This version of VirtualHub is built using [Jekyll](https://jekyllrb.com/).
 
 Initially, VirtualHub was a single website, meant to complement the Legacy Installer website. You can still visit the old website here: <https://old.virtualhub.eu.org>. Now, VirtualHub is a platform of many different websites complementing each other and have no relation with Legacy Installer.
 
