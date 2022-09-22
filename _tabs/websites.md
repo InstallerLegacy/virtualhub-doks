@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 3
 ---
 
-> [VirtualHub Setup](https://setup.virtualhub.eu.org){:target="_blank"} - Set up you system for VirtualHub.
+> [VirtualHub Setup](https://setup.virtualhub.eu.org){:target="_blank"} - Set up your system for VirtualHub.
 {: .prompt-tip }
 
 > [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org){:target="_blank"} - Screenshots of old Software.
