@@ -7,7 +7,7 @@ permissions:
   contents: write
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -17,7 +17,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: sudo apt-get install -y ibcairo2-dev \
+      - run: sudo apt-get install -y libcairo2-dev \
               libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
       - run: pip install mkdocs-material pillow cairosvg \
               mkdocs-git-revision-date-localized-plugin \
