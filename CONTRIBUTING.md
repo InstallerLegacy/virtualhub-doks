@@ -20,11 +20,11 @@ to ask for a specific tutorial.
 
 You may want to report errors in the existing tutorials.
 You can use [GitHub Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues)
-for that also. If you know enough about Jekyll to make an edit
+for that also. If you know enough about MkDocs to make an edit
 yourself then you are welcome to fork, make the edit and open
 a pull request.
 
-If you have enough knowledge of Jekyll and installing old 
+If you have enough knowledge of MkDocs and installing old 
 Operating Systems in Virtual Machines or Emulators, you can
 contribute a tutorial by creating a pull request. You will be
 given appropriate credits. If you have any questions, you can

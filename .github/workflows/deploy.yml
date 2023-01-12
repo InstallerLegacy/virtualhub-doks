@@ -1,0 +1,25 @@
+name: deploy 
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: sudo apt-get install -y ibcairo2-dev \
+              libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
+      - run: pip install mkdocs-material pillow cairosvg \
+              mkdocs-git-revision-date-localized-plugin \
+              mkdocs-minify-plugin mkdocs-glightbox
+      - run: mkdocs gh-deploy --force
