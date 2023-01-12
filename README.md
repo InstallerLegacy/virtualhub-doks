@@ -1,7 +1,7 @@
 # VirtualHub
 
 <p align="center">
-    <img src="/assets/about.webp">
+    <img src="https://virtualhub.eu.org/assets/img/welcome.webp">
 </p>
 
 > Visit [VirtualHub Blog](https://blog.virtualhub.eu.org) to know more about the fascinating history and stories about VirtualHub.
