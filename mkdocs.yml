@@ -39,6 +39,7 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+  font: false
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
