@@ -2,7 +2,7 @@
 
 <figure>
 <a href="/">
-<img src="/assets/img/welcome.webp" alt="VirtualHub logo" style="border-radius: 15%">
+<img src="/assets/img/welcome.webp" alt="VirtualHub logo" style="border-radius: 15%" width="120">
 </a>
 </figure>
 

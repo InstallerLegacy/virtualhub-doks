@@ -12,7 +12,7 @@ hide:
 <h1 style="text-align: center;">Welcome to VirtualHub!</h1>
 <figure>
 <a href="/">
-<img src="assets/img/welcome.webp" alt="VirtualHub logo" style="border-radius: 50%">
+<img src="assets/img/welcome.webp" alt="VirtualHub logo" style="border-radius: 50%" width="120">
 </a>
 </figure>
 
