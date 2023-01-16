@@ -4,7 +4,7 @@
 ![86-DOS 1.00](/assets/img/1980s/1981/DOS/86-DOS/1.00/86-DOS.webp){ loading=lazy }
 </figure>
 
-86-DOS 1.00 was released on 28 April 1981. A sepcific version of it can run unmodified on the following emulator: 
+86-DOS 1.00 was released on 28 April 1981. A specific version of it can run unmodified on the following emulator: 
 
 - [Altair-Z80](altairz80)
 

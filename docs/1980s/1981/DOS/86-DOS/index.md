@@ -4,7 +4,7 @@
 <a title="Seattle Computer Products, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:86-DOS_logo.svg"><img width="512" alt="86-DOS logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/86-DOS_logo.svg/512px-86-DOS_logo.svg.png"></a>
 </figure>
 
-86-DOS was a “quick and dirty” operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100 systems. It was later bought by Microsoft and used as the basis for IBM PC-DOS and MS-DOS. We are able to run two versions of 86-DOS in virtual machines:
+86-DOS was a “quick and dirty” operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100 systems. It was later bought by Microsoft and used as the basis for IBM PC-DOS and MS-DOS. We can run two versions of 86-DOS in virtual machines:
 
 <figure markdown>
 [86-DOS 1.00](1.00/){ .md-button }
@@ -32,3 +32,7 @@ Manuals of different specific versions of 86-DOS are not available. Here are som
 - [Tim Paterson's Site (Wayback Machine)](https://web.archive.org/web/20200102191543/http://www.patersontech.com/dos/origins-of-dos.aspx){:target="_blank" rel=noopener}
 - [Tim Paterson's Blog](https://dosmandrivel.blogspot.com/){:target="_blank" rel=noopener}
 - [Howard's Seattle Computer Products SCP 86-DOS Resource Website](https://web.archive.org/web/20140308115349/http://www.86dos.org/){:target="_blank" rel=noopener}
+
+## Credits
+
+- The manuals were taken from [Tim Paterson's Site (Wayback Machine)](https://web.archive.org/web/20200102191543/http://www.patersontech.com/dos/origins-of-dos.aspx){:target="_blank" rel=noopener}, and [Bitsavers](https://www.bitsavers.org){:target="_blank" rel=noopener}.
