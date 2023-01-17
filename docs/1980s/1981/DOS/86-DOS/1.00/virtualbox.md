@@ -32,7 +32,7 @@ Enter the name of the VM as you wish and make sure the Type is set to Other and 
 
 ![Setting the Hard Disk](/assets/img/1980s/1981/DOS/86-DOS/1.00/virtualbox/86-DOS-1.00-VirtualBox-3.webp){ loading=lazy }
 
-86-DOS does not support hard disks, so click on Do not add a virtual hard disk and click on `Create` button.
+86-DOS does not support hard disks, so click on Do not add a virtual hard disk and click on `Next` button.
 
 ![Summary](/assets/img/1980s/1981/DOS/86-DOS/1.00/virtualbox/86-DOS-1.00-VirtualBox-4.webp){ loading=lazy }
 
@@ -42,7 +42,7 @@ You will be shown a summary of the things you have set. Click on `Finish`.
 ![Hard Disk Warning](/assets/img/1980s/1981/DOS/86-DOS/1.00/virtualbox/86-DOS-1.00-VirtualBox-5.webp){ loading=lazy }
 </figure>
 
-You will be warned that there is no hard disk. Click on Continue. Now the Virtual Machine is created. Copy the `pc86dos.img` file to the VM folder.
+You will be warned that there is no hard disk. Click on `Continue`. Now the Virtual Machine is created. Copy the `pc86dos.img` file to the VM folder.
 
 ![Adding the floppy](/assets/img/1980s/1981/DOS/86-DOS/1.00/virtualbox/86-DOS-1.00-VirtualBox-6.webp){ loading=lazy }
 
