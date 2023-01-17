@@ -5,7 +5,7 @@ comments: true
 
 # How to install 86-DOS 1.00 on AltairZ80?
 
-![AltairZ80 emulator with 86-DOS](/assets/img/1980s/1981/DOS/86-DOS/1.00/altair-80/86-DOS-1.00-AltairZ80-3.webp){ loading=lazy }
+![AltairZ80 emulator with 86-DOS](/assets/img/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp){ loading=lazy }
 
 86-DOS 1.00 SCP OEM edition for SCP Cromemco 4FDC can run on the AltairZ80 emulator without any modification. If you have a disk image of that version, you can use it or else [download](#downloads) it from WinWorld.
 
@@ -18,7 +18,7 @@ You need the floppy image for 86-DOS. You can download it from WinWorld:
 ## Using 86-DOS
 
 !!! tip
-    If you have not already installed AltairZ80, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/altair-z80/){:target="_blank" rel=noopener} on Linux and Windows.
+    If you have not already installed AltairZ80, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/altairz80/){:target="_blank" rel=noopener} on Linux and Windows.
 
 Extract the archive you downloaded from WinWorld. Inside you will find several files. We do not need all of them. Create a folder somewhere to store the files for this VM.
 
@@ -45,7 +45,7 @@ echo
 go ffff0
 ```
 
-![86-DOS-1.00.conf](/assets/img/1980s/1981/DOS/86-DOS/1.00/altair-80/86-DOS-1.00-AltairZ80-1.webp){ loading=lazy }
+![86-DOS-1.00.conf](/assets/img/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-1.webp){ loading=lazy }
 
 Now open a terminal and move to the VM folder. Run the following command to start the emulator:
 
@@ -53,15 +53,15 @@ Now open a terminal and move to the VM folder. Run the following command to star
 altairz80 86-DOS-1.00.conf
 ```
 
-![altairz80 86-DOS-1.00.conf](/assets/img/1980s/1981/DOS/86-DOS/1.00/altair-80/86-DOS-1.00-AltairZ80-2.webp){ loading=lazy }
+![altairz80 86-DOS-1.00.conf](/assets/img/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-2.webp){ loading=lazy }
 
 Press ++enter++ until a prompt appears and then type a capital ++b++ and press ++enter++ to start 86-DOS.
 
-![AltairZ80 emulator with 86-DOS](/assets/img/1980s/1981/DOS/86-DOS/1.00/altair-80/86-DOS-1.00-AltairZ80-3.webp){ loading=lazy }
+![AltairZ80 emulator with 86-DOS](/assets/img/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp){ loading=lazy }
 
 Enter a date from the 1980s to continue. You should not enter dates after the year 2000 due to a bug in almost all software released before that year. For example, enter 12-22-82 and press ++enter++. 86-DOS will start. You can enter the `DIR` command to see a list of available files.
 
-![DIR command running in 86-DOS](/assets/img/1980s/1981/DOS/86-DOS/1.00/altair-80/86-DOS-1.00-AltairZ80-4.webp){ loading=lazy }
+![DIR command running in 86-DOS](/assets/img/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-4.webp){ loading=lazy }
 
 That's it! We used 86-DOS. We can create a shell script to make it easy to launch the VM. Create a file called 86-DOS-1.00.sh with the following content:
 
@@ -88,7 +88,7 @@ See the [Manuals section](/1980s/1981/DOS/86-DOS/#manuals) on the main 86-DOS pa
 !!! note
     In my limited testing, the 64-bit version of AltairZ80 does not seem to work on Windows. On Linux, both 64-bit and 32-bit work fine. If you are using Windows, you can use the 32-bit version instead. 32-bit software works on 64-bit Windows too.
 
-On Windows, you need to place the `altairz80.exe` file you downloaded in [this tutorial](https://setup.virtualhub.eu.org/altair-z80/#windows){:target="_blank" rel=noopener} in the VM folder. Then you can follow the above tutorial as usual. The shell script will not work on Windows. You need to rename it to `86-DOS-1.00.bat`. Then you can double-click the file to launch the VM, no need to make it executable.
+On Windows, you need to place the `altairz80.exe` file you downloaded in [this tutorial](https://setup.virtualhub.eu.org/altairz80/#windows){:target="_blank" rel=noopener} in the VM folder. Then you can follow the above tutorial as usual. The shell script will not work on Windows. You need to rename it to `86-DOS-1.00.bat`. Then you can double-click the file to launch the VM, no need to make it executable.
 
 ## Credits
 
