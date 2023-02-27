@@ -15,7 +15,7 @@ sooner or I may have forgotten some software. You may also want a
 tutorial on installing the OS or other software on a specific
 Hypervisor or emulator which I have not covered. In that case,
 you may use
-[GitHub Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues) 
+[GitHub Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues)
 to ask for a specific tutorial.
 
 You may want to report errors in the existing tutorials.
@@ -24,7 +24,7 @@ for that also. If you know enough about MkDocs to make an edit
 yourself then you are welcome to fork, make the edit and open
 a pull request.
 
-If you have enough knowledge of MkDocs and installing old 
+If you have enough knowledge of MkDocs and installing old
 Operating Systems in Virtual Machines or Emulators, you can
 contribute a tutorial by creating a pull request. You will be
 given appropriate credits. If you have any questions, you can

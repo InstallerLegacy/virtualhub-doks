@@ -15,7 +15,6 @@ weight: 200
 </figure>
 </div>
 
-
 From Wikipedia,
 
 > DOS is a platform-independent acronym for "disk operating system" that later became a common shorthand for disk-based operating systems on IBM PC compatibles.
