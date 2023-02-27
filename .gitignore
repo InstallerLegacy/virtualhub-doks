@@ -1,4 +1,5 @@
-env
-.cache
-.vscode
-site
+node_modules
+public
+resources
+.netlify
+.hugo_build.lock

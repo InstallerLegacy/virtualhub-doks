@@ -1,0 +1,113 @@
+# Meta Data for SEO
+
+## Homepage
+title = "VirtualHub"
+titleSeparator = "-"
+titleAddition = "Install old OS in VMs!"
+description = "Install old Operating Systems in Virtual Machines and enjoy what you missed without worrying about buying old computers and peripherals"
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["virtualhub.webp"]
+ogLocale = "en_US"
+domainTLD = "virtualhub.eu.org"
+titleHome = "VirtualHub"
+
+## Twitter Cards
+twitterSite = "@Virtua1Hub"
+twitterCreator = "@Virtua1Hub"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "VirtualHub"
+schemaAuthor = "Legacy Installer"
+schemaAuthorTwitter = "https://twitter.com/Virtua1Hub"
+schemaAuthorGitHub = "https://github.com/InstallerLegacy"
+schemaLocale = "en-US"
+schemaLogo = "logo-virtualhub.webp"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "virtualhub.webp"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/Virtua1Hub"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/InstallerLegacy/virtualhub.eu.org"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#00581b"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "Copyright (c) 2021-2023 Legacy Installer"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/InstallerLegacy/virtualhub.eu.org"
+docsRepoBranch = "main"
+docsRepoSubPath = ""
+editPage = true
+lastMod = true
+
+[sections]
+  sectionNav = ["docs", "guides"]
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = true
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+  navbarSticky = false
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

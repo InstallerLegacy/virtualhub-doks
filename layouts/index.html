@@ -1,0 +1,45 @@
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-12 text-center">
+      <h1 class="mt-0">{{ .Title }}</h1>
+    </div>
+    <div class="col-lg-9 col-xl-8 text-center">
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="1980s/" role="button">{{ i18n "get-started" }}</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+  {{ if eq $.Site.Language.LanguageName "English" }}
+  <section class="section section-sm">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+          <h2 class="h4">1980s</h2>
+          <p>The 1980s were the years of personal computing. The release of IBM PC in 1981 started a new era. In this section we will see how to install the operating systems relesed in that decade along with software which was commonly used on them.</p>
+          <p><a class="btn btn-primary btn-sm px-4 mb-1" href="1980s/" role="button">Let's Go!</a></p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">1990s</h2>
+          <p>Done with the 80s? Let's go explore the newer versions of those OS and software which survived to the new decade and the ones which were newly introduced. This was the decade in which Windows evolved from a shell on top of DOS to a full fledged OS.</p>
+          <p><a class="btn btn-primary btn-sm px-4 mb-1" href="#" role="button">Coming Soon</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+{{ define "sidebar-footer" }}
+<section class="section section-sm container-fluid">
+  <div class="row justify-content-center text-center">
+    <div class="col-lg-9">
+      {{- .Content -}}
+      <p class="meta" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://virtualhub.eu.org">VirtualHub</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/Virtua1Hub">Legacy Installer</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+    </div>
+  </div>
+</section>
+{{ end }}
