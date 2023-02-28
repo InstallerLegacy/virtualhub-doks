@@ -30,7 +30,7 @@ images: []
   margin-top: 20px;
   border-radius: 20px;
   border: none;
-  background: #15ba47; 
+  background: #15ba47;
   font-size: 16px;
   font-weight: 400;
   color: #fff;
