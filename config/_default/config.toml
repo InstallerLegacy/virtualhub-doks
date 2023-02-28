@@ -1,4 +1,4 @@
-baseurl = "https://virtualhub.eu.org/"
+baseurl = ""
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
