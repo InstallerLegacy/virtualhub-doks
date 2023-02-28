@@ -43,9 +43,17 @@ images: []
 
 <form name="contact" method="POST" data-netlify="true">
   <div class="form-inner">
-    <input type="text" name="name" placeholder="Name">
-    <input type="email" name="email" placeholder="Email">
-    <textarea name="message" placeholder="Message..." rows="5"></textarea>
-    <button class="green-button" type="submit">Submit</button>
+    <p>
+      <label>Your Name: <input type="text" name="name" /></label>
+    </p>
+    <p>
+      <label>Your Email: <input type="email" name="email" /></label>
+    </p>
+    <p>
+      <label>Message: <textarea name="message" rows="5"></textarea></label>
+    </p>
+    <p>
+      <button class="green-button" type="submit">Submit</button>
+    </p>
   </div>
 </form>
