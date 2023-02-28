@@ -1,10 +1,10 @@
 # VirtualHub
 
 <p align="center">
-    <img src="https://virtualhub.eu.org/assets/img/welcome.webp" alt="VirtualHub logo" style="border-radius: 50%" width="120">
+    <img src="https://virtualhub.eu.org/logo-virtualhub.webp" alt="VirtualHub logo" style="border-radius: 50%" width="120">
 </p>
 
-> Visit [VirtualHub Blog](https://blog.virtualhub.eu.org) to know more about the fascinating history and stories about VirtualHub.
+> Visit [VirtualHub Blog](https://virtualhub.eu.org/blog/) to know more about the fascinating history and stories about VirtualHub.
 
 Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
 
@@ -12,7 +12,7 @@ So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot
 
 VirtualHub is a static site and it is fast. I first used [Publii](https://getpublii.com/) to create and manage it. This enabled me to write and edit tutorials offline and publish them after proper editing. Since it is not hosted on any web server, all the writing and editing part is very fast and efficient, unlike WordPress.
 
-But Publii had its limitations, so I began to search for an alternative. This version of VirtualHub is built using [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+But Publii had its limitations, so I began to search for an alternative. This version of VirtualHub is built using [Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/).
 
 Initially, VirtualHub was a single website, meant to complement the old Legacy Installer website. You can still visit the old website here: <https://old.virtualhub.eu.org>. Now, VirtualHub is a platform of many different websites complementing each other and have no relation with Legacy Installer.
 
@@ -20,6 +20,5 @@ Instead of using Windows to write the tutorials and make videos, I will use diff
 
 I am also introducing several other websites which will be available soon:
 
-- [VirtualHub Blog](https://blog.virtualhub.eu.org) - The story about VirtualHub.
 - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org) - Screenshots of old Software.
 - [VirtualHub DOSBox-X](https://dosbox-x.virtualhub.eu.org) - Installing old software directly on DOSBox-X.
