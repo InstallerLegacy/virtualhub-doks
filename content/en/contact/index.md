@@ -41,11 +41,11 @@ images: []
   }
 </style>
 
-<form name="contact" method="POST" data-netlify="true" class="decor">
+<form name="contact" method="POST" data-netlify="true">
   <div class="form-inner">
-    <input type="text" placeholder="Name">
-    <input type="email" placeholder="Email">
-    <textarea placeholder="Message..." rows="5"></textarea>
+    <input type="text" name="name" placeholder="Name">
+    <input type="email" name="email" placeholder="Email">
+    <textarea name="message" placeholder="Message..." rows="5"></textarea>
     <button class="green-button" type="submit">Submit</button>
   </div>
 </form>
