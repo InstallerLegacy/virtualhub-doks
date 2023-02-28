@@ -19,7 +19,7 @@ images: []
   margin-bottom: 10px;
   border: none;
   border-radius: 20px;
-  background: #d0dfe8;
+  background: #dff5e5;
   }
   .form-inner textarea {
   resize: none;
@@ -30,14 +30,13 @@ images: []
   margin-top: 20px;
   border-radius: 20px;
   border: none;
-  border-bottom: 4px solid #3e4f24;
-  background: #5a7233; 
+  background: #15ba47; 
   font-size: 16px;
   font-weight: 400;
   color: #fff;
   }
   .green-button:hover {
-  background: #3e4f24;
+  background: #00581b;
   }
 </style>
 
