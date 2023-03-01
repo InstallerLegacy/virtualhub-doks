@@ -8,7 +8,7 @@ type: docs
 weight: 200
 ---
 
-<div style="text-align: center;" title="">
+<div style="text-align: center;">
 <figure>
 <img src="/images/1980s/1981/DOS/Unofficial_DOS_icon.svg.webp" alt="Unofficial DOS icon" style="border-radius: 15%">
 <figcaption><sup><a href="#footnote1" id="1">1</a></sup></figcaption>

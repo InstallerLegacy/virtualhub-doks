@@ -8,7 +8,7 @@ type: docs
 weight: 100
 ---
 
-<div style="text-align: center;" title="">
+<div style="text-align: center;">
 <figure>
 <img src="/images/1980s/1981/IBM_personal_computer,_1981.webp" alt="IBM PC" style="border-radius: 15%">
 <figcaption>IBM PC <sup><a href="#footnote1" id="1">1</a></sup></figcaption>
