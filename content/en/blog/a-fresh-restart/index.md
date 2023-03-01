@@ -45,6 +45,14 @@ Then this happened - [A fresh start](/a-fresh-start/). It was not a success, but
 
 ## The New VirtualHub experience
 
+<br>
+
+{{< alert icon="👉" context="info" >}}
+This version of VirtualHub is powered by Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info. No VirtualHub website use Jekyll now. The VirtualHub blog is now merged in the main VirtualHub site. Each site also has its own blog.
+{{< /alert >}}
+
+<br>
+
 I am happy to announce the new bunch of VirtualHub sites that complement each other. They are built using Jekyll and Hugo and they are *fast*. These are the websites:
 
 {{< alert icon="👉" context="success" >}}

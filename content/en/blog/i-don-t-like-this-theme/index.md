@@ -11,6 +11,14 @@ contributors: ["Legacy Installer"]
 pinned: false
 ---
 
+<br>
+
+{{< alert icon="👉" context="info" >}}
+This version of VirtualHub is powered by Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info.
+{{< /alert >}}
+
+<br>
+
 {{< img-simple src="flag-india.webp" alt="The Indian Flag" class="d-block mx-auto shadow my-5" >}}
 
 As promised in the previous post, today I am going to tell you why I did not choose your favorite theme for [VirtualHub](https://virtualhub.eu.org).

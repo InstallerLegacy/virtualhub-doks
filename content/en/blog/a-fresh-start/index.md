@@ -11,6 +11,14 @@ contributors: ["Legacy Installer"]
 pinned: false
 ---
 
+<br>
+
+{{< alert icon="👉" context="info" >}}
+This blog post is old and may contain wrong info. I no longer use this setup.
+{{< /alert >}}
+
+<br>
+
 Do not worry! I am not going to start the VirtualHub website from scratch once again. Instead, this post is about the Operating System I use. I plan to start blogging about everything I do related to VirtualHub from start, from installing the operating system.
 
 I plan to install a total of 5 operating systems:

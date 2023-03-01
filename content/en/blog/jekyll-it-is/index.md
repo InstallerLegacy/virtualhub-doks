@@ -11,6 +11,14 @@ contributors: ["Legacy Installer"]
 pinned: false
 ---
 
+<br>
+
+{{< alert icon="👉" context="info" >}}
+This version of VirtualHub is powered by Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info.
+{{< /alert >}}
+
+<br>
+
 So, after testing [Wordpress](https://wordpress.org/), [CloudCannon](https://cloudcannon.com/) and [Publli](https://getpublii.com/), I have started using [Jekyll](https://jekyllrb.com/). As I have told you in the previous post, this blog is created using it.
 
 ## A bit about this Blog
