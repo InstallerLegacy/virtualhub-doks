@@ -1,4 +1,4 @@
 /*
-  Content-Security-Policy: frame-ancestors 'none'
+  Content-Security-Policy: frame-ancestors 'none' default-src 'none'; font-src 'self'; frame-src https://giscus.app https://onedrive.live.com; script-src https://giscus.app 'self'; object-src 'none'; img-src 'self' data: 
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
