@@ -4,7 +4,7 @@ description: "Welcome to the VirtualHub Blog. This blog has been created to reco
 excerpt: "Welcome to the VirtualHub Blog. This blog has been created to record my continued struggle for finding a perfect CMS/SSG for the VirtualHub website."
 date: 2022-08-12T17:55:00+05:30
 draft: false
-images: [virtualhub.webp]
+images: []
 categories: ["Welcome"]
 tags: ["Welcome", "Legacy"]
 contributors: ["Legacy Installer"]

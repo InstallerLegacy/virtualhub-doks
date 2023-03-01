@@ -4,7 +4,7 @@ description: "So, after testing Wordpress, CloudCannon and Publli, I have starte
 excerpt: "So, after testing Wordpress, CloudCannon and Publli, I have started using Jekyll. As I have told you in the previous post, this blog is created using it."
 date: 2022-08-12T17:55:01+05:30
 draft: false
-images: [virtualhub.webp]
+images: [jekyll-it-is-1.webp]
 categories: ["VirtualHub Blog"]
 tags: ["Legacy"]
 contributors: ["Legacy Installer"]
