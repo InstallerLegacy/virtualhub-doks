@@ -1,5 +1,9 @@
 # VirtualHub
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3628b8f-6401-45f2-8363-1c1db1543cfe/deploy-status)](https://app.netlify.com/sites/virtua1hub/deploys)
+[![CodeQL](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml)
+[![Hyas CI](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml)
+
 <p align="center">
     <img src="https://virtualhub.eu.org/logo-virtualhub.webp" alt="VirtualHub logo" style="border-radius: 50%" width="120">
 </p>
