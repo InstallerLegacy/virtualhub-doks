@@ -16,7 +16,7 @@ Welcome to the VirtualHub Blog. This blog has been created to record my continue
 <br>
 
 {{< alert icon="👉" context="info" >}}
-This version of VirtualHub is powered by Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info.
+This version of VirtualHub is powered by [Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info.
 {{< /alert >}}
 
 <br>

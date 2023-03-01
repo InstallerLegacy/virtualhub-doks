@@ -48,7 +48,7 @@ Then this happened - [A fresh start](/a-fresh-start/). It was not a success, but
 <br>
 
 {{< alert icon="👉" context="info" >}}
-This version of VirtualHub is powered by Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info. No VirtualHub website use Jekyll now. The VirtualHub blog is now merged in the main VirtualHub site. Each site also has its own blog.
+This version of VirtualHub is powered by [Netlify](https://www.netlify.com/), [Hugo](https://gohugo.io/), and [Doks](https://getdoks.org/). This blog post is old and may contain wrong info. No VirtualHub website use Jekyll now. The VirtualHub blog is now merged in the main VirtualHub site. Each site also has its own blog.
 {{< /alert >}}
 
 <br>
