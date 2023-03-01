@@ -27,7 +27,6 @@ Now we will start installing old operating systems. Starting from 1981, I have c
 
 <iframe width="800" height="600" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=DB7A942C121D54F2%211195&authkey=%21AHqs5PDvwe7FUe8&em=2&wdAllowInteractivity=False&Item='1981'!A1%3AI38&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&resen=false"></iframe>
 
-
 I plan to complete all these tutorials by the end of November, but it may take more time. So, the first tutorial on [VirtualHub](https://virtualhub.eu.org) will be on how to install 86-DOS on the Altair-Z80 emulator, but first there will be a tutorial on [VirtualHub Setup](https://setup.virtualhub.eu.org) on how to install Altair-Z80 on Kubuntu and other Linux distributions.
 
 Stay tuned!
