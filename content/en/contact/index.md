@@ -40,7 +40,7 @@ images: []
   }
 </style>
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <div class="form-inner">
       <p>Your Name: </p>
       <input type="text" name="name" />
@@ -48,6 +48,7 @@ images: []
       <input type="email" name="email" />
       <p>Message: </p>
       <textarea name="message" rows="5"></textarea>
+      <div data-netlify-recaptcha="true"></div>
       <button class="green-button" type="submit">Submit</button>
   </div>
 </form>
