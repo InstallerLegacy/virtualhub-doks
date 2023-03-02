@@ -64,4 +64,3 @@ images: []
     warnMessage.classList.add("hidden");
   }
 </script>
-
