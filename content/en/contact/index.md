@@ -38,6 +38,9 @@ images: []
   .green-button:hover {
   background: #00581b;
   }
+  .hidden {
+  display: none;
+  }
 </style>
 
 <form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
@@ -49,6 +52,7 @@ images: []
       <p>Message: </p>
       <textarea name="message" rows="5"></textarea>
       <div data-netlify-recaptcha="true"></div>
+      <p style="color: red" id="warnMessage">You need to solve the CAPTCHA before you can submit the form.</p>
       <button class="green-button hidden" type="submit" id="btnSubmit">Submit</button>
   </div>
 </form>
@@ -58,6 +62,7 @@ images: []
         if ( btnSubmit.classList.contains("hidden") ) {
             btnSubmit.classList.remove("hidden");
             btnSubmitclassList.add("show");
+            warnMessageclassList.add("hidden");
         }
     }
 </script>
