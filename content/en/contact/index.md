@@ -49,6 +49,17 @@ images: []
       <p>Message: </p>
       <textarea name="message" rows="5"></textarea>
       <div data-netlify-recaptcha="true"></div>
-      <button class="green-button" type="submit">Submit</button>
+      <button class="green-button hidden" type="submit" id="btnSubmit">Submit</button>
   </div>
 </form>
+<script>
+    function recaptchaCallback() {
+        var btnSubmit = document.getElementById("btnSubmit");
+
+        if ( btnSubmit.classList.contains("hidden") ) {
+            btnSubmit.classList.remove("hidden");
+            btnSubmitclassList.add("show");
+        }
+    }
+</script>
+
