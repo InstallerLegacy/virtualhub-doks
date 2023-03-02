@@ -5,7 +5,7 @@ date: 2023-03-02T15:08:56+05:30
 draft: false
 images: [/images/1980s/1981/DOS/86-DOS/1.00/86-DOS-1.00.webp]
 type: docs
-weight: 1211000
+weight: 121100
 ---
 
 {{< fig src="/images/1980s/1981/DOS/86-DOS/1.00/86-DOS-1.00.webp" alt="86-DOS 1.00" >}}
