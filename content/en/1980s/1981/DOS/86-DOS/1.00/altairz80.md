@@ -31,7 +31,7 @@ Now move the `86dos.imd` from the `Images` folder in the extracted folder to the
 
 Now we will create a config file for our VM. Create a text file called `86-DOS-1.00.conf` with the following content in the VM folder:
 
-```
+``` config
 set cpu 8086
 load 86mon.bin 0
 load 86mon.bin ff800
@@ -70,7 +70,7 @@ Enter a date from the 1980s to continue. You should not enter dates after the ye
 
 That's it! We used 86-DOS. We can create a shell script to make it easy to launch the VM. Create a file called 86-DOS-1.00.sh with the following content:
 
-``` bash title="86-DOS-1.00.sh" linenums="1"
+``` bash
 #!/bin/bash
 altairz80 86-DOS-1.00.conf
 ```

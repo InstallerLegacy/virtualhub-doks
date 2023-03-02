@@ -10,7 +10,7 @@ weight: 1211000
 
 {{< fig src="/images/1980s/1981/DOS/86-DOS/1.00/86-DOS-1.00.webp" alt="86-DOS 1.00" >}}
 
-86-DOS 1.00 was released on 28 April 1981. A specific version of it can run unmodified on the following emulator: 
+86-DOS 1.00 was released on 28 April 1981. A specific version of it can run unmodified on the following emulator:
 
 <section class="section section-sm">
   <div class="container">
