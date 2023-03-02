@@ -7,6 +7,7 @@ draft: false
 images: []
 ---
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <style>
   .form-inner {
   padding: 40px;
