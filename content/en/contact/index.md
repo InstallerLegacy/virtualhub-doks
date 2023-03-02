@@ -51,7 +51,11 @@ images: []
       <input type="email" name="email" />
       <p>Message: </p>
       <textarea name="message" rows="5"></textarea>
-      <div data-netlify-recaptcha="true"></div>
+      <div
+        class="g-recaptcha"
+        data-sitekey="6Lf9GcYkAAAAAJQx-4juYVGuVZZWIcjEio64gclx"
+        data-callback="callback"
+      ></div>
       <p style="color: red" id="warnMessage">You need to solve the CAPTCHA before you can submit the form.</p>
       <button class="green-button hidden" type="submit" id="btnSubmit">Submit</button>
   </div>
