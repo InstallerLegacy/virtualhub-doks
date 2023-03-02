@@ -5,7 +5,7 @@ date: 2023-02-27T19:08:56+05:30
 draft: false
 images: [/images/1980s/1981/IBM_personal_computer,_1981.webp]
 type: docs
-weight: 10000
+weight: 100000
 ---
 
 <div style="text-align: center;">
