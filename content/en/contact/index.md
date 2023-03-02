@@ -55,7 +55,6 @@ images: []
 <script>
     function recaptchaCallback() {
         var btnSubmit = document.getElementById("btnSubmit");
-
         if ( btnSubmit.classList.contains("hidden") ) {
             btnSubmit.classList.remove("hidden");
             btnSubmitclassList.add("show");
