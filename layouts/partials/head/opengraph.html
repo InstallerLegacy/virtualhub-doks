@@ -36,11 +36,7 @@
 
 {{ with $.Params.images -}}
   {{ range first 6 . -}}
-  {{ $image := $.Resources.GetMatch (printf "**%s" . ) }}
-  {{ if not $image -}}
-  {{ $image = resources.Get (printf "%s%s" "images/" . ) }}
-  {{ end -}}
-  <meta property="og:image" content="{{ $image.Permalink }}">
+  <meta property="og:image" content="{{ $.Permalink }}{{ . }}">
   {{ end -}}
 {{ else -}}
   {{ $images := $.Resources.ByType "image" -}}

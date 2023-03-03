@@ -4,13 +4,7 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ .Description }}">
 {{ with $.Params.images -}}
-  {{ range first 6 . -}}
-    {{ $image := $.Resources.GetMatch (printf "**%s" . ) }}
-    {{ if not $image -}}
-      {{ $image = resources.Get (printf "%s%s" "images/" . ) }}
-    {{ end -}}
-    <meta name="twitter:image" content="{{ $image.Permalink }}">
-  {{ end -}}
+  <meta name="twitter:image" content="{{ $.Permalink }}{{ index . 0 }}">
 {{ else -}}
   {{ $images := $.Resources.ByType "image" -}}
   {{ $featured := $images.GetMatch "*feature*" -}}
