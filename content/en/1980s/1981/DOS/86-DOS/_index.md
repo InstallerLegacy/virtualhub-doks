@@ -3,14 +3,14 @@ title: "86-DOS"
 description: "86-DOS was a “quick and dirty” operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100 systems. It was later bought by Microsoft and used as the basis for IBM PC-DOS and MS-DOS."
 date: 2023-03-02T14:08:56+05:30
 draft: false
-images: [/images/1980s/1981/DOS/86-DOS/86-DOS.webp]
+images: [86-DOS.webp]
 type: docs
 weight: 121000
 ---
 
 <div style="text-align: center;">
 <figure>
-<img src="/images/1980s/1981/DOS/86-DOS/86-DOS.webp" alt="86-DOS logo">
+<img src="86-DOS.webp" alt="86-DOS logo">
 <figcaption><sup><a href="#footnote1" id="1">1</a></sup></figcaption>
 </figure>
 </div>

@@ -3,14 +3,14 @@ title: "CP/M"
 description: "CP/M, originally standing for Control Program/Monitor and later Control Program for Microcomputers, is a mass-market operating system created in 1974."
 date: 2023-03-02T09:08:56+05:30
 draft: false
-images: []
+images: [Sanco_8001.webp]
 type: docs
 weight: 110000
 ---
 
 <div style="text-align: center;">
 <figure>
-<img src="/images/1980s/1981/CPM/Sanco_8001.webp" alt="A system running CP/M" style="border-radius: 15%">
+<img src="/1980s/1981/cpm/Sanco_8001.webp" alt="A system running CP/M" style="border-radius: 15%">
 <figcaption>A system running CP/M <sup><a href="#footnote1" id="1">1</a></sup></figcaption>
 </figure>
 </div>

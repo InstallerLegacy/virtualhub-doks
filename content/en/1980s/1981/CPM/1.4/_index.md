@@ -3,12 +3,12 @@ title: "CP/M 1.4"
 description: "CP/M 1.4 was released in 1981. We can run it on the AlatirZ80 emulator."
 date: 2023-03-02T09:08:56+05:30
 draft: false
-images: [/images/1980s/1981/CPM/1.4/CPM.webp]
+images: [CPM.webp]
 type: docs
 weight: 111000
 ---
 
-{{< fig src="/images/1980s/1981/CPM/1.4/CPM.webp" alt="CP/M 1.4" >}}
+{{< fig src="1980s/1981/cpm/1.4/CPM.webp" alt="CP/M 1.4" >}}
 
 CP/M 1.4 was released in 1981. We can run it on the AlatirZ80 emulator.
 

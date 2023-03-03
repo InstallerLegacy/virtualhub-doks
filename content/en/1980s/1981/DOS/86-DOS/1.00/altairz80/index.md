@@ -3,13 +3,13 @@ title: "How to install 86-DOS 1.00 on AltairZ80?"
 description: "86-DOS 1.00 SCP OEM edition for SCP Cromemco 4FDC can run on the AltairZ80 emulator without any modification. If you have a disk image of that version, you can use it."
 date: 2023-03-02T16:08:56+05:30
 draft: false
-images: [/images/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp]
+images: [86-DOS-1.00-AltairZ80-3.webp]
 type: docs
 weight: 121101
 ---
 
 {{< load-photoswipe >}}
-{{< fig class="no-photoswipe" src="/images/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp" alt="AltairZ80 emulator with 86-DOS" >}}
+{{< fig class="no-photoswipe" src="/1980s/1981/dos/86-dos/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp" alt="AltairZ80 emulator with 86-DOS" >}}
 
 86-DOS 1.00 SCP OEM edition for SCP Cromemco 4FDC can run on the AltairZ80 emulator without any modification. If you have a disk image of that version, you can use it or else [download](#downloads) it from WinWorld.
 
@@ -50,7 +50,7 @@ echo
 go ffff0
 ```
 
-{{< figure src="/images/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-1.webp" alt="86-DOS-1.00.conf" >}}
+{{< figure src="/1980s/1981/dos/86-dos/1.00/altairz80/86-DOS-1.00-AltairZ80-1.webp" alt="86-DOS-1.00.conf" >}}
 
 Now open a terminal and move to the VM folder. Run the following command to start the emulator:
 
@@ -58,15 +58,15 @@ Now open a terminal and move to the VM folder. Run the following command to star
 altairz80 86-DOS-1.00.conf
 ```
 
-{{< figure src="/images/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-2.webp" alt="altairz80 86-DOS-1.00.conf" >}}
+{{< figure src="/1980s/1981/dos/86-dos/1.00/altairz80/86-DOS-1.00-AltairZ80-2.webp" alt="altairz80 86-DOS-1.00.conf" >}}
 
 Press `enter` until a prompt appears and then type a capital `B` and press `enter` to start 86-DOS.
 
-{{< figure src="/images/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp" alt="AltairZ80 emulator with 86-DOS" >}}
+{{< figure src="/1980s/1981/dos/86-dos/1.00/altairz80/86-DOS-1.00-AltairZ80-3.webp" alt="AltairZ80 emulator with 86-DOS" >}}
 
 Enter a date from the 1980s to continue. You should not enter dates after the year 2000 due to a bug in almost all software released before that year. For example, enter 12-22-82 and press `enter`. 86-DOS will start. You can enter the `DIR` command to see a list of available files.
 
-{{< figure src="/images/1980s/1981/DOS/86-DOS/1.00/altairz80/86-DOS-1.00-AltairZ80-4.webp" alt="DIR command running in 86-DOS" >}}
+{{< figure src="/1980s/1981/dos/86-dos/1.00/altairz80/86-DOS-1.00-AltairZ80-4.webp" alt="DIR command running in 86-DOS" >}}
 
 That's it! We used 86-DOS. We can create a shell script to make it easy to launch the VM. Create a file called 86-DOS-1.00.sh with the following content:
 

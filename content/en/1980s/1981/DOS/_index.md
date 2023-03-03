@@ -3,14 +3,14 @@ title: "DOS"
 description: "DOS is a platform-independent acronym for 'disk operating system' that later became a common shorthand for disk-based operating systems on IBM PC compatibles."
 date: 2023-02-27T19:08:56+05:30
 draft: false
-images: [/images/1980s/1981/DOS/Unofficial_DOS_icon.svg.webp]
+images: [Unofficial_DOS_icon.svg.webp]
 type: docs
 weight: 120000
 ---
 
 <div style="text-align: center;">
 <figure>
-<img src="/images/1980s/1981/DOS/Unofficial_DOS_icon.svg.webp" alt="Unofficial DOS icon" style="border-radius: 15%">
+<img src="Unofficial_DOS_icon.svg.webp" alt="Unofficial DOS icon" style="border-radius: 15%">
 <figcaption><sup><a href="#footnote1" id="1">1</a></sup></figcaption>
 </figure>
 </div>
