@@ -8,12 +8,7 @@ type: docs
 weight: 121000
 ---
 
-<div style="text-align: center;">
-<figure>
-<img src="86-DOS.webp" alt="86-DOS logo">
-<figcaption><sup><a href="#footnote1" id="1">1</a></sup></figcaption>
-</figure>
-</div>
+{{< fig src="/1980s/1981/dos/86-dos/86-DOS.webp" alt="86-DOS logo" >}}
 
 86-DOS was a “quick and dirty” operating system clone of CP/M created by Seattle Computer Products for their 8086 S-100 systems. It was later bought by Microsoft and used as the basis for IBM PC-DOS and MS-DOS. We can run two versions of 86-DOS in virtual machines:
 

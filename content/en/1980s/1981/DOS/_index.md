@@ -11,7 +11,6 @@ weight: 120000
 <div style="text-align: center;">
 <figure>
 <img src="Unofficial_DOS_icon.svg.webp" alt="Unofficial DOS icon" style="border-radius: 15%">
-<figcaption><sup><a href="#footnote1" id="1">1</a></sup></figcaption>
 </figure>
 </div>
 
@@ -36,7 +35,3 @@ In this section, by "DOS" we mean operating systems which are either compatible 
     </div>
   </div>
 </section>
-
-<hr>
-
-<sup><a href="#1" id="footnote1">1</a></sup> <a href="https://commons.wikimedia.org/wiki/File:Unofficial_DOS_icon.svg">User:ZyMOS, for the Open Icon Library</a>, Public domain, via Wikimedia Commons
