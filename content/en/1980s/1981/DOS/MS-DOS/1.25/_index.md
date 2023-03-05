@@ -57,7 +57,7 @@ Some vendors labeled their versions of MS-DOS with different names and version n
         <p><a class="btn btn-primary btn-md px-4 mb-1" href="mame/" role="button">MS-DOS 1.25 on MAME</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="altiarz80/" role="button">MS-DOS 1.25 on AltairZ80</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="altairz80/" role="button">MS-DOS 1.25 on AltairZ80</a></p>
       </div>
     </div>
   </div>
