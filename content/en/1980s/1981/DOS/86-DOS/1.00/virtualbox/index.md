@@ -75,7 +75,7 @@ Click on `Leave Empty` when the following window opens:
 
 Now click on `OK` to close the settings window. Now we can add another floppy if we want.
 
-That's it. We used 86-DOS 1.00 in VirtualBox. See the [Manuals section](/1980s/1981/DOS/86-DOS/#manuals) on the main 86-DOS page to learn how to use 86-DOS.
+That's it. We used 86-DOS 1.00 in VirtualBox. See the [Manuals section](/1980s/1981/dos/86-dos/#manuals) on the main 86-DOS page to learn how to use 86-DOS.
 
 ### Windows
 

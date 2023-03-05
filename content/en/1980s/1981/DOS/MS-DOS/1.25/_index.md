@@ -3,7 +3,7 @@ title: "MS-DOS 1.25"
 description: "DOS 1.x was very limited in what it could do. It could start applications (.COM and .EXE), and process batch files (.BAT). PC-DOS 1.0 worked with 160KB floppies and did not support folders (all files had to be in the root)."
 date: 2023-03-05T12:08:56+05:30
 draft: false
-images: [MS-1.25.webp]
+images: [MS-DOS-1.25.webp]
 type: docs
 weight: 123100
 ---

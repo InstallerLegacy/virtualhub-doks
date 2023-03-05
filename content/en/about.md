@@ -4,7 +4,7 @@ description: "Learn more about VirtualHub: The repository of tutorials on how to
 date: 2023-02-27T16:23:18+05:30
 lastmod: 2023-02-27T16:23:18+05:30
 draft: false
-images: [logo-virtualhub.webp]
+images: []
 ---
 
 <p class="text-center"><img alt="VirtualHub logo" src="/logo-virtualhub.webp" style="border-radius: 50%" width="150"></p>

@@ -37,11 +37,11 @@ Also, this version of VirtualHub was to complement the Legacy Installer website 
 
 ### NeoVirtualHub
 
-The next alternative: Jekyll. It was fast. It built fast. I found [a theme that met my expectations](/i-don-t-like-this-theme/). So, I started to port the VirtualHub website to Jekyll. You can view my work here - <https://neo.virtualhub.eu.org>.
+The next alternative: Jekyll. It was fast. It built fast. I found [a theme that met my expectations](/blog/a-bit-about-your-favorite-theme.../). So, I started to port the VirtualHub website to Jekyll. You can view my work here - <https://neo.virtualhub.eu.org>.
 
 {{< img-simple src="NeoVirtualHub.webp" alt="NeoVirtualHub Website" class="d-block mx-auto shadow my-5" >}}
 
-Then this happened - [A fresh start](/a-fresh-start/). It was not a success, but I got a new idea.
+Then this happened - [A fresh start](/blog/a-fresh-start.../). It was not a success, but I got a new idea.
 
 ## The New VirtualHub experience
 

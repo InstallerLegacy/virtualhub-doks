@@ -3,14 +3,14 @@ title: "1981"
 description: "1981 was the year when things started to become exciting. Many OS and software were released in this year, most notably the IBM PC-DOS and MS-DOS."
 date: 2023-02-27T19:08:56+05:30
 draft: false
-images: [IBM_personal_computer,_1981.webp]
+images: [IBM_personal_computer_1981.webp]
 type: docs
 weight: 100000
 ---
 
 <div style="text-align: center;">
 <figure>
-<img src="IBM_personal_computer,_1981.webp" alt="IBM PC" style="border-radius: 15%">
+<img src="IBM_personal_computer_1981.webp" alt="IBM PC" style="border-radius: 15%">
 <figcaption>IBM PC <sup><a href="#footnote1" id="1">1</a></sup></figcaption>
 </figure>
 </div>
