@@ -88,7 +88,7 @@ See the [Manuals section](/1980s/1981/dos/86-dos/#manuals) on the main 86-DOS pa
 ### Windows
 
 {{< alert icon="👉" context="success" >}}
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/categories/os/), a beginner-friendly distro.
+You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
 {{< /alert >}}
 
 {{< alert icon="👉" context="success" >}}
