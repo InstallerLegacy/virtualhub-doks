@@ -81,7 +81,7 @@ Now make the file executable:
 chmod +x 86-DOS-1.00.sh
 ```
 
-Now you can start the VM using the shell script. For example, on KDE you can double-click on that file and click on `Execute` or on GNOME, where you can right-click the file and choose `Run as executable`. The VM will start.
+Now you can start the VM using the shell script. For example, on KDE you can right-click the file and choose `Run in Konsole` or on GNOME, where you can right-click the file and choose `Run as executable`. The VM will start.
 
 See the [Manuals section](/1980s/1981/dos/86-dos/#manuals) on the main 86-DOS page to learn how to use 86-DOS.
 
@@ -103,6 +103,10 @@ On Windows, you need to place the `altairz80.exe` file you downloaded in [this t
 
 ## Video tutorial
 
-Do you want to follow the tutorial by watching a video? We will post a video on our [youtube channel](https://www.youtube.com/@virtua1hub) soon.
+Do you want to follow the tutorial by watching a video? Here it is:
+
+{{< youtube gxMAKaP4xJY >}}
+
+Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jus7o7c7e33ooooyh4hwl36evnha/virtualhub-videos%2F1980s%2F1981%2FDOS%2F86-DOS%2F86-DOS%201.00%2F%20How%20to%20install%2086-DOS%201.00%20on%20AltairZ80.mp4?download=true).
 
 Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://virtualhub.eu.org/1980s/1981/DOS/86-DOS/1.00/altairz80/).
