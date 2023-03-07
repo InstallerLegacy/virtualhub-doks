@@ -107,6 +107,8 @@ Do you want to follow the tutorial by watching a video? Here it is:
 
 {{< youtube gxMAKaP4xJY >}}
 
+<br>
+
 Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jus7o7c7e33ooooyh4hwl36evnha/virtualhub-videos%2F1980s%2F1981%2FDOS%2F86-DOS%2F86-DOS%201.00%2F%20How%20to%20install%2086-DOS%201.00%20on%20AltairZ80.mp4?download=true).
 
 Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://virtualhub.eu.org/1980s/1981/DOS/86-DOS/1.00/altairz80/).
