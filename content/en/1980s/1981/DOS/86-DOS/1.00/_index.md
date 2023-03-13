@@ -5,7 +5,7 @@ date: 2023-03-02T15:08:56+05:30
 draft: false
 images: [86-DOS-1.00.webp]
 type: docs
-weight: 121100
+weight: 111100
 ---
 
 {{< fig src="/1980s/1981/dos/86-dos/1.00/86-DOS-1.00.webp" alt="86-DOS 1.00" >}}
@@ -16,7 +16,7 @@ weight: 121100
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="altairz80/" role="button">86-DOS 1.00 on AltairZ80</a></p>
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="simh/" role="button">86-DOS 1.00 on SIMH</a></p>
       </div>
     </div>
   </div>
@@ -29,24 +29,6 @@ It can run on many more emulators with some modifications:
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-md px-4 mb-1" href="virtualbox/" role="button">86-DOS 1.00 on VirtualBox</a></p>
-      </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="86box/" role="button">86-DOS 1.00 on 86Box</a></p>
-      </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="pcem/" role="button">86-DOS 1.00 on PCem</a></p>
-      </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="dosbox-staging/" role="button">86-DOS 1.00 on DOSBox-Staging</a></p>
-      </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="dosbox-x/" role="button">86-DOS 1.00 on DOSBox-X</a></p>
-      </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="mame/" role="button">86-DOS 1.00 on MAME</a></p>
-      </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-md px-4 mb-1" href="pce/" role="button">86-DOS 1.00 on PCE</a></p>
       </div>
     </div>
   </div>

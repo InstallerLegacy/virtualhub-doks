@@ -11,6 +11,12 @@ contributors: ["Legacy Installer"]
 pinned: false
 ---
 
+{{< alert icon="👉" context="warning" >}}
+This post is old and contains WRONG information. Please see [newer posts](/blog).
+{{< /alert >}}
+
+<br>
+
 In the last few days, we have installed and configured Kubuntu. If you have not seen the tutorials yet, here are the links:
 
 - [How to create a Kubuntu installation media?](https://setup.virtualhub.eu.org/create-kubuntu-installation-media/)

@@ -5,7 +5,7 @@ date: 2023-03-05T07:08:56+05:30
 draft: false
 images: [86-DOS-1.00-VirtualBox.webp]
 type: docs
-weight: 121102
+weight: 111102
 ---
 
 {{< load-photoswipe >}}
@@ -23,6 +23,10 @@ You can download the modified image from OS/2 Museum Website:
 
 {{< alert icon="👉" context="success" >}}
 If you have not already installed VirtualBox, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/virtualbox/) on Linux and Windows.
+{{< /alert >}}
+
+{{< alert icon="👉" context="warning" >}}
+Using any [DOS](/1980s/1981/dos) operating system on VirtualBox can cause high CPU usage. If your CPU usage is at 100% for some time while using 86-DOS, see [this article on FreeDOS wiki](http://wiki.freedos.org/wiki/index.php/VirtualBox_-_Bugs:_High_CPU_usage_of_FreeDOS_machine) to learn more about this issue and how to fix it.
 {{< /alert >}}
 
 Open VirtualBox, and click on New Machine. The new machine dialog box will open:

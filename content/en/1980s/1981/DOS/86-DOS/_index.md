@@ -5,7 +5,7 @@ date: 2023-03-02T14:08:56+05:30
 draft: false
 images: [86-DOS.webp]
 type: docs
-weight: 121000
+weight: 111000
 ---
 
 {{< fig src="/1980s/1981/dos/86-dos/86-DOS.webp" alt="86-DOS logo" >}}

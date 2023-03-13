@@ -5,7 +5,7 @@ date: 2023-03-05T12:08:56+05:30
 draft: false
 images: [IBM_PC_DOS_7.0_logo.svg.webp]
 type: docs
-weight: 122000
+weight: 112000
 ---
 
 {{< fig src="/1980s/1981/dos/pc-dos/IBM_PC_DOS_7.0_logo.svg.webp" alt="IBM PC DOS 7.0 logo" >}}

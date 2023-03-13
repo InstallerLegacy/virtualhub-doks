@@ -23,9 +23,6 @@ weight: 100000
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="dos/" role="button">DOS</a></p>
       </div>
-      <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="cpm/" role="button">CP/M</a></p>
-      </div>
     </div>
   </div>
 </section>
