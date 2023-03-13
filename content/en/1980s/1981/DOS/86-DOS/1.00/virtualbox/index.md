@@ -11,7 +11,7 @@ weight: 111102
 {{< load-photoswipe >}}
 {{< fig class="no-photoswipe" src="/1980s/1981/dos/86-dos/1.00/virtualbox/86-DOS-1.00-VirtualBox.webp" alt="86-DOS 1.00 on VirtualBox" >}}
 
-86-DOS 1.00 is not compatible with IBM PC or its emulators. It does not run on VirtualBox unmodified but Michal Necasek of [OS/2 Museum](https://www.os2museum.com/wp/) modified it to make it run on IBM PC and its emulators. So we can run it on VirtualBox. If you want to run an unmodified copy of 86-DOS, you can do so using the [AltairZ80 emulator](../altairz80).
+86-DOS 1.00 is not compatible with IBM PC or its emulators. It does not run on VirtualBox unmodified but Michal Necasek of [OS/2 Museum](https://www.os2museum.com/wp/) modified it to make it run on IBM PC and its emulators. So we can run it on VirtualBox. If you want to run an unmodified copy of 86-DOS, you can do so using the [AltairZ80 emulator](../simh).
 
 ## Downloads
 
