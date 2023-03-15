@@ -14,7 +14,7 @@ type: docs
 </figure>
 </div>
 
-The 1980s were the years of personal computing. The release of IBM PC in 1981 started a new era. In this section we will see how to install the operating systems relesed in that decade along with software which was commonly used on them.
+The 1980s were the years of personal computing. The release of IBM PC in 1981 started a new era. In this section we will see how to install the operating systems released in that decade along with software which was commonly used on them.
 
 <section class="section section-sm">
   <div class="container">
