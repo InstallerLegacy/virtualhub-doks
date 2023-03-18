@@ -20,3 +20,7 @@ I *will* cover some mainframe operating systems here in this blog, which I have 
 That's it.
 
 Stay tuned!
+
+<hr>
+
+Cover Image from <a href="https://commons.wikimedia.org/wiki/File:Pdp7-oslo-2005.jpeg">en:User:Toresbe</a>, <a href="http://creativecommons.org/licenses/sa/1.0/">CC SA 1.0</a>, via Wikimedia Commons
