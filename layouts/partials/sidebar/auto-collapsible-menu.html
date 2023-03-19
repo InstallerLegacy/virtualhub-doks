@@ -11,6 +11,8 @@
         </button>
         <div class="collapse{{ if $active }} show{{ end }}" id="section-{{ md5 .Title }}">
           <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+            {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
+            <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">General Overview</a></li>
             {{ range .Pages }}
               {{ if .IsNode }}
                 {{ $active := in $currentPage.RelPermalink .RelPermalink }}
@@ -20,6 +22,8 @@
                   </button>
                   <div class="collapse{{ if $active }} show{{ end }}" id="section-{{ md5 .Title }}">
                     <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                      {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
+                      <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">General Overview</a></li>
                       {{ range .Pages }}
                         {{ if .IsNode }}
                           {{ $active := in $currentPage.RelPermalink .RelPermalink }}
@@ -29,6 +33,8 @@
                             </button>
                             <div class="collapse{{ if $active }} show{{ end }}" id="section-{{ md5 .Title }}">
                               <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
+                                <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">General Overview</a></li>
                                 {{ range .Pages }}
                                   {{ if .IsNode }}
                                     {{ $active := in $currentPage.RelPermalink .RelPermalink }}
@@ -38,6 +44,8 @@
                                       </button>
                                       <div class="collapse{{ if $active }} show{{ end }}" id="section-{{ md5 .Title }}">
                                         <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                                          {{ $active := eq $currentPage.RelPermalink .RelPermalink }}
+                                          <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">General Overview</a></li>
                                           {{ range .Pages }}
                                             {{ $active := in $currentPage.RelPermalink .RelPermalink }}
                                             <li><a class="docs-link rounded{{ if $active }} active{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
