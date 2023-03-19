@@ -1,36 +1,41 @@
 [[main]]
+  name = "1960s"
+  url = "/1960s/"
+  weight = 10
+
+[[main]]
   name = "1980s"
   url = "/1980s/"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "About"
-  weight = 30
+  weight = 40
   url = "/about/"
   identifier = "about"
 
 [[main]]
   name = "About VirtualHub"
-  weight = 40
+  weight = 50
   url = "/about/"
   identifier = "aboutvh"
   parent = "about"
 
 [[main]]
   name = "Our Other Websites"
-  weight = 50
+  weight = 60
   url = "/other-websites/"
   identifier = "other-websites"
   parent = "about"
 
 [[main]]
   name = "Contact"
-  weight = 60
+  weight = 70
   url = "/contact/"
   identifier = "contact"
   parent="about"
