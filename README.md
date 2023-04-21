@@ -1,16 +1,17 @@
-# VirtualHub
+<div align="center">
+<img src="https://virtualhub.eu.org/logo-virtualhub.webp" alt="VirtualHub logo" width="120" style="border-radius: 50%;">
+<h1>VirtualHub</h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f3628b8f-6401-45f2-8363-1c1db1543cfe/deploy-status)](https://app.netlify.com/sites/virtua1hub/deploys)
 [![CodeQL](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml)
 [![Hyas CI](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml)
 
-<p align="center">
-    <img src="https://virtualhub.eu.org/logo-virtualhub.webp" alt="VirtualHub logo" style="border-radius: 50%" width="120">
-</p>
+<p align="center">Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.</p>
+
+---
+</div>
 
 > Visit [VirtualHub Blog](https://virtualhub.eu.org/blog/) to know more about the fascinating history and stories about VirtualHub.
-
-Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
 
 So, how is this different from [Legacy Installer](https://legacyinstaller.pcriot.com/), our old website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.
 
