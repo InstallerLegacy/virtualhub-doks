@@ -31,6 +31,12 @@ $navbar-dark-active-color:          $link-color-dark;
   color: $link-color-dark;
 }
 
+[data-dark-mode] body .alert-success {
+  color: #d1e7dd;
+  background-color: darken(#0f5132, 5%);
+  border-color: darken(#0f5132, 10%);
+}
+
 [data-dark-mode] body a.text-body {
   color: $body-color-dark !important;
 }
