@@ -22,7 +22,7 @@ You can download the kit needed to run ! 4K DMS on the SIMH PDP-8 emulator from 
 ## Using ! 4K DMS
 
 {{< alert icon="👉" context="success" >}}
-If you have not already installed SIMH PDP-8 emulator, we will post a tutorial on  [the VirtualHub Setup website](https://setup.virtualhub.eu.org/) soon.
+If you have not already installed SIMH PDP-8 emulator, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/simh-pdp8/) on Linux and Windows.
 {{< /alert >}}
 
 Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the file named `dms.df32` into it.
