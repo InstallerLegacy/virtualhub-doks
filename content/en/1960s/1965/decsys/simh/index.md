@@ -17,7 +17,7 @@ We can run [! DECSys-7](/1960s/1965/decsys) on the SIMH PDP-7 emulator. First, w
 
 You can download the kit needed to run ! DECSys-7 on the SIMH PDP-7 emulator from the ["SIMH Legacy" website](http://simh.trailing-edge.com/):
 
-- [! DECSys-7 kit](http://simh.trailing-edge.com/kits/decsys.zip) ([Local Copy](https://link.storjshare.io/jxqcp6tiesqrni3qiu7b7diuhfta/virtualhub%2F1960s%2F1965%2FDECSys-7%2Fdecsys.zip?download=true))
+- [! DECSys-7 kit](http://simh.trailing-edge.com/kits/decsys.zip)
 
 ## Using ! DECSys-7
 

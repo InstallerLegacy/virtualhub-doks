@@ -17,7 +17,7 @@ We can run [! 4K DMS](/1960s/1965/4kdms) on the SIMH PDP-8 emulator. First, we n
 
 You can download the kit needed to run ! 4K DMS on the SIMH PDP-8 emulator from the ["SIMH Legacy" website](http://simh.trailing-edge.com/):
 
-- [! 4K DMS kit](http://simh.trailing-edge.com/kits/dms8.zip) ([Local Copy](https://link.storjshare.io/jwsn7gvmez6rbhciytlaqqgvrwtq/virtualhub%2F1960s%2F1965%2F4K-DMS%2Fdms8.zip?download=true))
+- [! 4K DMS kit](http://simh.trailing-edge.com/kits/dms8.zip)
 
 ## Using ! 4K DMS
 

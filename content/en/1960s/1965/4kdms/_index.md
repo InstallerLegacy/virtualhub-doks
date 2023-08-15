@@ -12,12 +12,22 @@ weight: 120000
 
 ! 4K DMS (Disk Monitor System) was an operating system for the DEC PDP-8 computer. We can run it on the SIMH PDP-8 emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="simh/" role="button">! 4K DMS on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 ## Manuals
 
 You can download the ! 4K DMS manuals from here:
 
-- [! 4K DMS Manual](http://www.pdp8online.com/pdp8cgi/query_docs/tifftopdf.pl/pdp8docs/dec-08-odsma-a-d.pdf) ([Local Copy](https://link.storjshare.io/jxg3yu24odfarhwwqirtel4di7ka/virtualhub%2F1960s%2F1965%2F4K-DMS%2FManuals%2Fdec-08-odsma-a-d.pdf?download=true))
-- [! 4K DMS Programmer's Reference Manual](http://www.bitsavers.org/pdf/dec/pdp8/software/DEC-D8-SDAB-D_diskMonPgmRef.pdf) ([Local Copy](https://link.storjshare.io/jwt57gg2anjcdnkpecu6lwqqkofq/virtualhub%2F1960s%2F1965%2F4K-DMS%2FManuals%2FDEC-D8-SDAB-D_diskMonPgmRef.pdf?download=true))
+- [! 4K DMS Manual](http://www.pdp8online.com/pdp8cgi/query_docs/tifftopdf.pl/pdp8docs/dec-08-odsma-a-d.pdf)
+- [! 4K DMS Programmer's Reference Manual](http://www.bitsavers.org/pdf/dec/pdp8/software/DEC-D8-SDAB-D_diskMonPgmRef.pdf)
 
 You may also be interested in the PDP-8 manuals. They were the computers on which ! 4K DMS was supposed to run. You can download them from Bitsavers:
 
