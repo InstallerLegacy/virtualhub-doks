@@ -20,7 +20,7 @@ to ask for a specific tutorial.
 
 You may want to report errors in the existing tutorials.
 You can use [GitHub Issues](https://github.com/InstallerLegacy/virtualhub.eu.org/issues)
-for that also. If you know enough about MkDocs to make an edit
+for that also. If you know enough about Hugo and Doks to make an edit
 yourself then you are welcome to fork, make the edit and open
 a pull request.
 
