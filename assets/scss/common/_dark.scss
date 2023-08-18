@@ -57,6 +57,18 @@ $navbar-dark-active-color:          $link-color-dark;
   color: $body-bg-dark;
 }
 
+[data-dark-mode] body .breadcrumb-item::before {
+  color: $body-color-dark;
+}
+
+[data-dark-mode] body .breadcrumb-item.active {
+  color: $body-color-dark;
+}
+
+[data-dark-mode] body .card-body {
+  color: $body-color-dark;
+}
+
 [data-dark-mode] body .btn-doks-light {
   color: $navbar-dark-color;
 }
