@@ -43,6 +43,7 @@ Out of those, these are the ones referenced by the Operating Manual:
 
 ## Related Pages
 
+- [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1960s/1965/decsys/)
 - [Wikipedia](https://en.wikipedia.org/wiki/PDP-7#Software)
 - [Computer History Wiki PDP-7 page](https://gunkies.org/wiki/PDP-7)
 - [Computer History Wiki PDP-4 page](https://gunkies.org/wiki/PDP-4)
