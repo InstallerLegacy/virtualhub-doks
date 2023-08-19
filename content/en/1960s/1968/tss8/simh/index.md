@@ -25,7 +25,7 @@ You can download the kit needed to run ! TSS/8 on the SIMH PDP-8 emulator from t
 If you have not already installed SIMH PDP-8 emulator, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/simh-pdp8/) on Linux and Windows.
 {{< /alert >}}
 
-Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the files named `tss8_init.bin` `tss8_rf.dsk` into it.
+Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the files named `tss8_init.bin` and `tss8_rf.dsk` into it.
 
 Now we will create a config file for our VM. Create a text file called `pdp8.ini` with the following content in the VM folder:
 
