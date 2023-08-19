@@ -5,14 +5,14 @@ date: 2023-08-18T19:56:56+05:30
 draft: false
 images: [tss8.webp]
 type: docs
-weight: 110000
+weight: 210000
 ---
 
 {{< fig src="/1960s/1968/tss8/tss8.webp" alt="! TSS/8" >}}
 
 ! TSS/8 was an operating system for the DEC PDP-8 computer. We can run it on the SIMH PDP-8 emulator.
 
-<!--<section class="section section-sm">
+<section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
@@ -20,7 +20,7 @@ weight: 110000
       </div>
     </div>
   </div>
-</section>-->
+</section>
 
 ## Manuals
 
@@ -39,7 +39,7 @@ You may also be interested in the PDP-8 manuals. They were the computers on whic
 
 - [Wikipedia](https://en.wikipedia.org/wiki/TSS/8)
 - [Computer History Wiki PDP-8 page](https://gunkies.org/wiki/TSS/8)
-- [Running TSS/8 on the DEC PiDP-8/i and SIMH (Raymii.org)](https://raymii.org/s/articles/Running_TSS_8_on_the_DEC_PiDP-8_i_and_SIMH.html#toc_12)
+- [Running TSS/8 on the DEC PiDP-8/i and SIMH (Raymii.org)](https://raymii.org/s/articles/Running_TSS_8_on_the_DEC_PiDP-8_i_and_SIMH.html)
 - [Bitsavers](http://bitsavers.trailing-edge.com/pdf/dec/pdp8/tss8/)
 
 ## Credits
