@@ -52,7 +52,7 @@ After the emulator starts, type `START` and press enter. When asked enter the da
 
 Press enter until you get a `.` prompt. The type the following:
 
-```
+``` console
 LOGIN 2 LXHE
 ```
 
