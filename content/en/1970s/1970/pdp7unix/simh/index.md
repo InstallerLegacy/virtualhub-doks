@@ -69,7 +69,7 @@ There are other user accounts on the image like `dmr` (password: `dmr`). Do you 
 
 Type `ls` followed by enter. It will list all the files available on the disk.
 
-{{< figure src="/1970s/1970/pdp7unix/simh/pdp-7-unix-SIMH-4.webp" alt="List of files in ! PDP7 UNIX" >}}
+{{< figure src="/1970s/1970/pdp7unix/simh/pdp7unix-SIMH-4.webp" alt="List of files in ! PDP7 UNIX" >}}
 
 That's it! We used ! PDP7 UNIX. We can create a shell script to make it easy to launch the VM. Create a file called `pdp7unix.sh` with the following content:
 
