@@ -16,7 +16,7 @@ There were four operating system of our interest which was released in the year 
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! PDP7 UNIX</a></p>
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="pdp7unix/" role="button">! PDP7 UNIX</a></p>
       </div>
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! CAPS-11</a></p>
