@@ -1,17 +1,29 @@
 [[main]]
+  name = "Operating Systems"
+  weight = 10
+  url = "/1960s/"
+  identifier = "os"
+
+[[main]]
   name = "1960s"
   url = "/1960s/"
-  weight = 10
+  weight = 11
+  identifier = "1960s"
+  parent = "os"
+
+[[main]]
+  name = "1970s"
+  url = "/1970s/"
+  weight = 12
+  identifier = "1970s"
+  parent = "os"
 
 [[main]]
   name = "1980s"
   url = "/1980s/"
-  weight = 20
-
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 30
+  weight = 13
+  identifier = "1980s"
+  parent = "os"
 
 [[main]]
   name = "About"
@@ -39,6 +51,12 @@
   url = "/contact/"
   identifier = "contact"
   parent="about"
+  
+  
+[[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 80
 
 [[social]]
   name = "GitHub"

@@ -22,6 +22,9 @@ The 1960s were mainly the years of mainframes and minicomputers. In this section
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="1965/" role="button">1965</a></p>
       </div>
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="1968/" role="button">1968</a></p>
+      </div>
     </div>
   </div>
 </section>
