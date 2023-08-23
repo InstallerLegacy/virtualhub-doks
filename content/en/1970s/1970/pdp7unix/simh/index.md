@@ -1,6 +1,6 @@
 ---
-title: "How to install ! PDP7 UNIX on SIMH?"
-description: 'We can run ! PDP7 UNIX on the SIMH PDP-7 emulator. First, we need to download the ! PDP7 UNIX kit. You can download the kit needed to run it on the SIMH PDP-7 emulator from our github repo.'
+title: "How to install ! PDP7 Unix on SIMH?"
+description: 'We can run ! PDP7 Unix on the SIMH PDP-7 emulator. First, we need to download the ! PDP7 Unix kit. You can download the kit needed to run it on the SIMH PDP-7 emulator from our github repo.'
 date: 2023-08-22T10:08:56+05:30
 draft: false
 images: [pdp7unix-SIMH-4.webp]
@@ -9,19 +9,19 @@ weight: 110001
 ---
 
 {{< load-photoswipe >}}
-{{< fig class="no-photoswipe" src="/1970s/1970/pdp7unix/simh/pdp7unix-SIMH-4.webp" alt="SIMH PDP-7 emulator with ! PDP7 UNIX" >}}
+{{< fig class="no-photoswipe" src="/1970s/1970/pdp7unix/simh/pdp7unix-SIMH-4.webp" alt="SIMH PDP-7 emulator with ! PDP7 Unix" >}}
 
-We can run [! PDP7 UNIX](/1970s/1970/pdp7unix) on the SIMH PDP-7 emulator. First, we need to download the ! PDP7 UNIX kit.
+We can run [! PDP7 Unix](/1970s/1970/pdp7unix) on the SIMH PDP-7 emulator. First, we need to download the ! PDP7 Unix kit.
 
 ## Downloads
 
-You can download the kit needed to run ! PDP7 UNIX on the SIMH PDP-7 emulator from [our github repo fork](https://github.com/InstallerLegacy/pdp7-unix) of the original [project to resurrect Unix on the PDP-7 from a scan of the original assembly code](https://github.com/DoctorWkt/pdp7-unix):
+You can download the kit needed to run ! PDP7 Unix on the SIMH PDP-7 emulator from [our github repo fork](https://github.com/InstallerLegacy/pdp7-unix) of the original [project to resurrect Unix on the PDP-7 from a scan of the original assembly code](https://github.com/DoctorWkt/pdp7-unix):
 
-- [! PDP7 UNIX kit](https://github.com/InstallerLegacy/pdp7-unix/releases/download/20230821/pdp7.zip)
+- [! PDP7 Unix kit](https://github.com/InstallerLegacy/pdp7-unix/releases/download/20230821/pdp7.zip)
 
 We will publish a guide on how to create the images yourself soon.
 
-## Using ! PDP7 UNIX
+## Using ! PDP7 Unix
 
 {{< alert icon="👉" context="success" >}}
 If you have not already installed SIMH PDP-7 emulator, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/simh-pdp7/) on Linux and Windows.
@@ -69,9 +69,9 @@ There are other user accounts on the image like `dmr` (password: `dmr`). Do you 
 
 Type `ls` followed by enter. It will list all the files available on the disk.
 
-{{< figure src="/1970s/1970/pdp7unix/simh/pdp7unix-SIMH-4.webp" alt="List of files in ! PDP7 UNIX" >}}
+{{< figure src="/1970s/1970/pdp7unix/simh/pdp7unix-SIMH-4.webp" alt="List of files in ! PDP7 Unix" >}}
 
-That's it! We used ! PDP7 UNIX. We can create a shell script to make it easy to launch the VM. Create a file called `pdp7unix.sh` with the following content:
+That's it! We used ! PDP7 Unix. We can create a shell script to make it easy to launch the VM. Create a file called `pdp7unix.sh` with the following content:
 
 ``` bash
 #!/bin/bash
@@ -86,7 +86,7 @@ chmod +x pdp7unix.sh
 
 Now you can start the VM using the shell script. For example, on KDE you can right-click the file and choose `Run in Konsole` or on GNOME, where you can right-click the file and choose `Run as executable`. The VM will start.
 
-See the [manuals section](/1970s/1970/pdp7unix/#manuals) on the [main ! PDP7 UNIX page](/1970s/1970/pdp7unix) to learn how to use it.
+See the [manuals section](/1970s/1970/pdp7unix/#manuals) on the [main ! PDP7 Unix page](/1970s/1970/pdp7unix) to learn how to use it.
 
 ### Windows
 

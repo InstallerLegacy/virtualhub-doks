@@ -13,7 +13,7 @@ pinned: false
 
 There were four operating system of our interest which was released in the year 1968. They were:
 
-- ! PDP7 UNIX
+- ! PDP7 Unix
 - ! CAPS-11
 - ! ADSS-15
 - ! DOS-15
