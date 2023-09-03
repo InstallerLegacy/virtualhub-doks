@@ -34,6 +34,7 @@ You may also be interested in the PDP-7 manuals. It was the computer on which ! 
 
 ## Related Pages
 
+- [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1970/pdp7unix/)
 - [Wikipedia](https://en.wikipedia.org/wiki/UNIX)
 - [Computer History Wiki ! PDP7 Unix page](https://gunkies.org/wiki/PDP-7_UNIX)
 - [Computer History Wiki PDP-7 page](https://gunkies.org/wiki/PDP-7)
