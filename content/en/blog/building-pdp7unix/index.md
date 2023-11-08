@@ -63,4 +63,3 @@ make binaries
 {{< img-simple src="make.webp" alt="Making the images" class="d-block mx-auto my-5" >}}
 
 After the command has completed, you will find files called `boot.rim` and `image.fs` in the `binaries` folder. Copy them somewhere and use them when asked in the [tutorial on how to use ! PDP 7 Unix on SIMH](/1970s/1970/pdp7unix/simh/).
-
