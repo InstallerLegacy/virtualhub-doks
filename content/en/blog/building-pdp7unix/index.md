@@ -56,7 +56,7 @@ cd pdp7-unix
 
 Run the following command to start making the images:
 
-```
+```bash
 make binaries
 ```
 
