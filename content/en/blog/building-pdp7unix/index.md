@@ -18,25 +18,25 @@ This post assumes that you are running a Linux distribution. If you have not ins
 First, we need to install some tools and dependencies to build it. On Ubuntu/Debian based distros, run the following command:
 
 ```bash
-sudo apt install git make perl
+sudo apt install git make perl gcc libdatetime-perl
 ```
 
 On Fedora and related distros, run:
 
 ```bash
-sudo dnf install git make perl
+sudo dnf install git make perl gcc perl-DateTime
 ```
 
 On openSUSE and related distros, run:
 
 ```bash
-sudo zypper in git make perl
+sudo zypper in git make perl gcc perl-DateTime
 ```
 
 On Arch based distros, run:
 
 ```bash
-sudo pacman -S git make perl
+sudo pacman -S git make perl gcc perl-datetime
 ```
 
 Now, move to the Downloads folder and clone the [pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) repository:
