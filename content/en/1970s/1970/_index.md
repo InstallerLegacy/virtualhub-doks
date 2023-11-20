@@ -1,6 +1,6 @@
 ---
 title: "1970"
-description: "There were four operating system of our interest which was released in the year 1968. They were:"
+description: "There were four operating system of our interest which was released in the year 1970. They were:"
 date: 2023-08-22T09:08:56+05:30
 draft: false
 images: [1970.webp]
@@ -10,7 +10,7 @@ weight: 100000
 
 {{< fig src="/1970s/1970/1970.webp" alt="! PDP7 Unix" >}}
 
-There were four operating system of our interest which was released in the year 1968. They were:
+There were four operating system of our interest which was released in the year 1970. They were:
 
 <section class="section section-sm">
   <div class="container">
