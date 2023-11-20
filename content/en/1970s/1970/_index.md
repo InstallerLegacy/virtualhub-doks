@@ -22,7 +22,7 @@ There were four operating system of our interest which was released in the year 
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="caps-11/" role="button">! CAPS-11</a></p>
       </div>
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! ADSS-15</a></p>
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="adss-15/" role="button">! ADSS-15</a></p>
       </div>
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! DOS-15</a></p>
