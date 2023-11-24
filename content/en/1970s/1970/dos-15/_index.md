@@ -12,6 +12,16 @@ weight: 140000
 
 ! DOS-15 was an operating system for the DEC PDP-15 computer. We can run it in the SIMH PDP-15 emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="simh/" role="button">! DOS-15 on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 ## Manuals
 
 You can download the ! DOS-15 manuals from here:
