@@ -10,7 +10,7 @@ weight: 140000
 
 {{< fig src="/1970s/1970/dos-15/dos-15.webp" alt="! DOS-15" >}}
 
-! DOS-15 was an operating system for the DEC PDP-15 computer. We can run it in the SIMH PDP-15 emulator.
+! DOS-15 (not to be confused with MS-DOS or IBM PC-DOS) was an operating system for the DEC PDP-15 computer. We can run it in the SIMH PDP-15 emulator.
 
 <section class="section section-sm">
   <div class="container">
