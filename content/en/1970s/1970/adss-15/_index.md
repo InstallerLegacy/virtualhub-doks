@@ -1,6 +1,6 @@
 ---
 title: "! ADSS-15"
-description: "! ADSS-15 was an operating system for the DEC PDP-715 computer. We can run it in the SIMH PDP-15 emulator."
+description: "! ADSS-15 was an operating system for the DEC PDP-15 computer. We can run it in the SIMH PDP-15 emulator."
 date: 2023-11-19T09:08:56+05:30
 draft: false
 images: [adss-15.webp]
