@@ -19,7 +19,7 @@ You can download the kit needed to run ! PDP7 Unix on the SIMH PDP-7 emulator fr
 
 - [! PDP7 Unix kit](https://github.com/InstallerLegacy/pdp7-unix/releases/download/20231107/pdp7.zip)
 
-If you want to build the kit yourself, refer to [our guide on how to do so](/blog/building-pdp7-unix-images-yourlself/).
+If you want to build the kit yourself, refer to [our guide on how to do so](/blog/building-pdp7-unix-images-yourself/).
 
 ## Using ! PDP7 Unix
 
