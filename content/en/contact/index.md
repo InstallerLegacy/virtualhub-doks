@@ -69,3 +69,10 @@ images: []
     warnMessage.classList.add("hidden");
   }
 </script>
+
+<div class="text-center">
+  <p>You can also chat with us on Discord:</p>
+  <a href="https://chat.virtualhub.eu.org">
+    <img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
+  </a>
+</div>
