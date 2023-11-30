@@ -1,6 +1,6 @@
 ---
 title: "How to install ! CAPS-11 on SIMH?"
-description: 'We can run ! CAPS-11 Unix on the SIMH PDP-11 emulator. First, we need to download the ! CAPS-11 kit. You can download the kit needed to run it on the SIMH PDP-11 emulator from our here.'
+description: 'We can run ! CAPS-11 Unix on the SIMH PDP-11 emulator. First, we need to download the ! CAPS-11 kit. You can download the kit needed to run it on the SIMH PDP-11 emulator from the "SIMH Legacy" website.'
 date: 2023-11-11T09:08:56+05:30
 draft: false
 images: [caps-11-SIMH-3.webp]
@@ -89,7 +89,7 @@ pdp11
 
 {{< figure src="/1970s/1970/caps-11/simh/caps-11-SIMH-2.webp" alt="pdp11" >}}
 
-After the emulator starts, you can typ `dir` followed by enter. It will list all the files available on the disk.
+After the emulator starts, you can type `dir` followed by enter. It will list all the files available on the disk.
 
 {{< figure src="/1970s/1970/caps-11/simh/caps-11-SIMH-3.webp" alt="List of files in ! CAPS-11" >}}
 
