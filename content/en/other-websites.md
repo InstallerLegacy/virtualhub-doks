@@ -11,6 +11,15 @@ images: []
 
 <br>
 
+<div class="text-center container">
+  <p>Chat with us on Discord:</p>
+  <p>
+    <a href="https://chat.virtualhub.eu.org">
+      <img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
+    </a>
+  </p>
+</div>
+
 {{< alert icon="👉" context="success" >}}
 [VirtualHub Setup](https://setup.virtualhub.eu.org) - Set up your system for VirtualHub.
 {{< /alert >}}

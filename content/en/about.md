@@ -17,6 +17,15 @@ Visit [VirtualHub Blog](/blog) to know more about the fascinating history and st
 
 <br>
 
+<div class="text-center container">
+  <p>We love to chat with people who love old software. Come join us on discord:</p>
+  <p>
+    <a href="https://chat.virtualhub.eu.org">
+      <img src="https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=banner2" alt="Discord Banner"/>
+    </a>
+  </p>
+</div>
+
 Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.
 
 So, how is this different from [Legacy Installer](https://web.archive.org/web/20220401052354/https://legacyinstaller.pcriot.com/), our old website? The idea behind this separate website had been roaming in my head for a long time. I was getting frustrated by WordPress but did not want to leave it because it provided many features.
