@@ -26,6 +26,13 @@
   parent = "os"
 
 [[main]]
+  name = "Start Here"
+  url = "/start-here/"
+  weight = 1000
+  identifier = "start-here"
+  parent = "os"
+
+[[main]]
   name = "About"
   weight = 40
   url = "/about/"
