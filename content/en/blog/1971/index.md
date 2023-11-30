@@ -17,7 +17,9 @@ There were three operating system of our interest which was released in the year
 - ! OS/8
 - ! RSX-15
 
-All of them can be installed on one of the SIMH emulators.
+Sadly, we do not have a complete copy of Unix v1, but we do have a copy with v1 [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)) and v2 [userland](https://en.wikipedia.org/wiki/User_space).
+
+All of them (including the hybrid Unix v1/v2 image) can be installed on one of the SIMH emulators.
 
 I will cover them soon.
 

@@ -40,4 +40,4 @@ You may also be interested in the PDP-11 manuals. It was the computer on which !
 
 ## Credits
 
-- The manuals were taken [Bitsavers](http://bitsavers.org).
+- The manuals were taken from [Bitsavers](http://bitsavers.org).

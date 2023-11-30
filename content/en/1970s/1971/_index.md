@@ -16,7 +16,7 @@ There were three operating system of our interest which was released in the year
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! Unix v1</a></p>
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="unix-v1/" role="button">! Unix v1</a></p>
       </div>
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! OS/8</a></p>
