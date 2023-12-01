@@ -7,6 +7,8 @@ draft: false
 images: []
 ---
 
+To learn more about Research Unix, see [this Wikipedia page](https://en.wikipedia.org/wiki/Research_Unix).
+
 - [! PDP-7 Unix](/1970s/1970/pdp7unix/)
 - [! Unix v1](/1970s/1971/unix-v1/)
 
