@@ -10,6 +10,7 @@ images: []
 - [! CAPS-11](/1970s/1970/caps-11/)
 - [! ADSS-15](/1970s/1970/adss-15/)
 - [! DOS-15](/1970s/1970/dos-15/)
+- [! OS/8](/1970s/1971/os8/)
 
 <div class="container justify-content-center text-center">
   <p>Come, chat with us:</p>
