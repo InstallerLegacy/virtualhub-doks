@@ -19,6 +19,8 @@ You can download the kit needed to run ! Unix-v1 on the SIMH PDP-11 emulator fro
 
 - [! Unix-v1 kit](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/unix-jun72/images-20080625.tgz)
 
+If you are on Windows, you may need to install additional software such as [7-Zip](https://www.7-zip.org/) to extract the kit.
+
 ## Using ! Unix-v1
 
 {{< alert icon="👉" context="success" >}}

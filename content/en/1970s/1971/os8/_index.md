@@ -12,6 +12,16 @@ weight: 220000
 
 ! OS/8 was the most famous operating system for the DEC PDP-8 computer. We can run it on SIMH emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="simh/" role="button">! OS/8 on SIMH</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 ## Manuals
 
 You can download the ! OS/8 manuals from here:
