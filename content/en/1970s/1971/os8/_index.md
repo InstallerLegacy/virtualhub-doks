@@ -43,6 +43,7 @@ You may also be interested in the PDP-8 manuals. They were the computers on whic
 
 ## Related Pages
 
+- [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1971/os8/)
 - [Wikipedia](https://en.wikipedia.org/wiki/OS/8)
 - [Computer History Wiki ! OS/8 page](https://gunkies.org/wiki/OS/8)
 - [Computer History Wiki PDP-8 page](https://gunkies.org/wiki/PDP-8)
