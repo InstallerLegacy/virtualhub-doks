@@ -1,7 +1,7 @@
 ---
 title: "1973"
-description: "There were two operating system of our interest which was released in the year 1973. Sadly, we do not have a complete copu of ! Unix v4."
-excerpt: "There were two operating system of our interest which was released in the year 1973. Sadly, we do not have a complete copu of ! Unix v4."
+description: "There were two operating system of our interest which was released in the year 1973. Sadly, we do not have a complete copy of ! Unix v4."
+excerpt: "There were two operating system of our interest which was released in the year 1973. Sadly, we do not have a complete copy of ! Unix v4."
 date: 2023-12-03T09:03:00+05:30
 draft: false
 images: [1973.webp]
