@@ -1,7 +1,7 @@
 ---
 title: "1971"
 description: "There were two operating system of our interest which was released in the year 1971. Both of them can be installed on one of the SIMH emulators."
-excerpt: There were two operating system of our interest which was released in the year 1971. Both of them can be installed on one of the SIMH emulators."
+excerpt: "There were two operating system of our interest which was released in the year 1971. Both of them can be installed on one of the SIMH emulators."
 date: 2023-11-27T09:41:00+05:30
 draft: false
 images: [1971.webp]
@@ -11,7 +11,7 @@ contributors: ["Legacy Installer"]
 pinned: false
 ---
 
-There were two operating system of our interest which was released in the year 1970. They were:
+There were two operating system of our interest which was released in the year 1971. They were:
 
 - ! Unix v1
 - ! OS/8
