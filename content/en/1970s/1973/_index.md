@@ -16,7 +16,7 @@ There were two operating system of our interest which was released in the year 1
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">Alto OS</a></p>
+        <p><a class="btn btn-primary btn-lg px-4 mb-1" href="alto-os/" role="button">Alto OS</a></p>
       </div>
       <div class="col-lg-5">
         <p><a class="btn btn-primary btn-lg px-4 mb-1" href="#" role="button">! Unix v4</a></p>
