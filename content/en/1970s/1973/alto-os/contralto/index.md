@@ -21,8 +21,7 @@ You can download the Alto OS Non-programmer's disk image [bitsavers](http://bits
 
 If you are on Windows, you may need to install additional software such as [7-Zip](https://www.7-zip.org/) to extract the kit.
 
-## Installing Alto OS
-
+## Setting Up
 ### Linux
 
 {{< alert icon="👉" context="success" >}}
@@ -61,6 +60,18 @@ In the console window that appears, type `start` followed by enter. The main emu
 
 {{< figure src="/1970s/1973/alto-os/contralto/alto-os-contralto-4.webp" alt="start (emulation)" >}}
 
+You can now continue with [installing Alto OS](#installing-alto-os).
+
+### Windows
+
+{{< alert icon="👉" context="success" >}}
+You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
+{{< /alert >}}
+
+Windows instructions coming soon!
+
+## Installing Alto OS
+
 Run `install` in the emulation window to start the installation. When asked whether you want the long installation dialog, press `N`. Enter your username and the name you want to give to the disk.
 
 {{< figure src="/1970s/1973/alto-os/contralto/alto-os-contralto-5.webp" alt="Installation" >}}
@@ -78,14 +89,6 @@ After entering the password, Alto OS will start and display your username as wel
 That's it! We installed Alto OS. See the [manuals section](/1970s/1973/alto-os/#manuals) on the [main Alto OS page](/1970s/1973/alto-os/) to learn how to use it.
 
 There are several preinstalled apps on the disk image. We will cover them soon.
-
-### Windows
-
-{{< alert icon="👉" context="success" >}}
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
-{{< /alert >}}
-
-Windows instructions coming soon!
 
 ## Credits
 
