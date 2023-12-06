@@ -22,7 +22,6 @@ The Xerox Alto OS, was the first GUI system. It was way ahead of its time. We ca
   </div>
 </section>
 
-
 ## Manuals
 
 You can download the Alto OS manuals from [bitsavers](http://bitsavers.org/pdf/xerox/alto/). These are the most useful ones:
