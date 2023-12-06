@@ -12,6 +12,17 @@ weight: 310000
 
 The Xerox Alto OS, was the first GUI system. It was way ahead of its time. We can run it on ContrAlto emulator.
 
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <p><a class="btn btn-primary btn-md px-4 mb-1" href="contralto/" role="button">Alto OS on ContrAlto</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
 ## Manuals
 
 You can download the Alto OS manuals from [bitsavers](http://bitsavers.org/pdf/xerox/alto/). These are the most useful ones:
