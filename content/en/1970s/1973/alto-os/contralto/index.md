@@ -9,7 +9,7 @@ weight: 310001
 ---
 
 {{< load-photoswipe >}}
-{{< fig class="no-photoswipe" src="/1970s/1973/alto-os/contralto/alto-os-contralto-8.webp" alt="Alto OS running on ContrAlto emulator" >}}
+{{< fig class="no-photoswipe" src="/1970s/1973/alto-os/contralto/alto-os-contralto-7.webp" alt="Alto OS running on ContrAlto emulator" >}}
 
 We can run [Alto OS](/1970s/1973/alto-os/) on ContrAlto emulator. First we need to download a disk image of Alto OS.
 
@@ -75,7 +75,7 @@ After entering the password, Alto OS will start and display your username as wel
 
 {{< figure src="/1970s/1973/alto-os/contralto/alto-os-contralto-7.webp" alt="List of files" >}}
 
-That's it! We installed Alto OS. See the [manuals section](1970s/1973/alto-os/#manuals) on the [main Alto OS page](/1970s/1973/alto-os/) to learn how to use it.
+That's it! We installed Alto OS. See the [manuals section](/1970s/1973/alto-os/#manuals) on the [main Alto OS page](/1970s/1973/alto-os/) to learn how to use it.
 
 There are several preinstalled apps on the disk image. We will cover them soon.
 
