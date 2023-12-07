@@ -59,7 +59,7 @@ Bravo is a word processor software for Alto OS. Run `bravo` to start it.
 
 {{< figure src="/1970s/1973/alto-os/preinstalled-apps/alto-os-pi-5.webp" alt="Bravo" >}}
 
-To quit it, type `q`. Then press enter to confirm. If you have not saved the file, you will be asked to confirm again if you really want to exit. Press `y` if you want to exit anyway. 
+To quit it, type `q`. Then press enter to confirm. If you have not saved the file, you will be asked to confirm again if you really want to exit. Press `y` if you want to exit anyway.
 
 ## More?
 
