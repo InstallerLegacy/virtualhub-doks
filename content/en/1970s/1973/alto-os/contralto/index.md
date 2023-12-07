@@ -22,6 +22,7 @@ You can download the Alto OS Non-programmer's disk image [bitsavers](http://bits
 If you are on Windows, you may need to install additional software such as [7-Zip](https://www.7-zip.org/) to extract the kit.
 
 ## Setting Up
+
 ### Linux
 
 {{< alert icon="👉" context="success" >}}
