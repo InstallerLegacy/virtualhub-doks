@@ -23,11 +23,11 @@ If you are on Windows, you may need to install additional software such as [7-Zi
 
 ## Setting Up
 
-### Linux
-
 {{< alert icon="👉" context="success" >}}
 If you have not already installed ContrAlto emulator, see [the VirtualHub Setup tutorial on how to do so](https://setup.virtualhub.eu.org/contralto/) on Linux and Windows.
 {{< /alert >}}
+
+### Linux
 
 Extract the `nonprog.dsk.Z` you downloaded. Inside you will find the `nonprog.dsk` disk image file. Copy that file to where you have stored the files for ContrAlto emulator.
 
@@ -89,7 +89,9 @@ After entering the password, Alto OS will start and display your username as wel
 
 That's it! We installed Alto OS. See the [manuals section](/1970s/1973/alto-os/#manuals) on the [main Alto OS page](/1970s/1973/alto-os/) to learn how to use it.
 
-There are several preinstalled apps on the disk image. We will cover them soon.
+There are several preinstalled apps on the disk image. We cover them here:
+
+- [Preinstalled apps in Alto OS](/1970s/1973/alto-os/preinstalled-apps/)
 
 ## Credits
 
