@@ -11,6 +11,10 @@ weight: 310002
 {{< load-photoswipe >}}
 {{< fig class="no-photoswipe" src="/1970s/1973/alto-os/preinstalled-apps/alto-os-pi-5.webp" alt="Bravo Word Processor" >}}
 
+{{< alert icon="👉" context="success" >}}
+To interact with Alto OS, you need to click on the emulation window. Doing so will lock you mouse and keyboard to inside the window. To free them again, press the `Alt` key.
+{{< /alert >}}
+
 Now that we have [installed Alto OS](/1970s/1973/alto-os/contralto/), lets use some apps on it. There are quite a few preinstalled apps in Alto OS. It includes things from file manager to Word processing software. Let's start with the simplest, the file manager. First, start Alto OS.
 
 {{< alert icon="👉" context="success" >}}

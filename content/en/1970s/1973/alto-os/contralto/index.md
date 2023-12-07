@@ -73,6 +73,10 @@ Start the ContrAlto emulator from Start menu. After it opens, click on `System` 
 
 ## Installing Alto OS
 
+{{< alert icon="👉" context="success" >}}
+To interact with Alto OS, you need to click on the emulation window. Doing so will lock you mouse and keyboard to inside the window. To free them again, press the `Alt` key.
+{{< /alert >}}
+
 Run `install` in the emulation window to start the installation. When asked whether you want the long installation dialog, press `N`. Enter your username and the name you want to give to the disk.
 
 {{< figure src="/1970s/1973/alto-os/contralto/alto-os-contralto-5.webp" alt="Installation" >}}
