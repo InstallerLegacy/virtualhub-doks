@@ -45,8 +45,8 @@ On most mouses, pressing the scroll-wheel simulates pressing the middle mouse bu
 
 You may also be interested in the Alto hardware manual:
 
-- [Alto Hardware Manual (Part1)](http://bitsavers.org/pdf/xerox/alto/AltoHWRef.part1.pdf)
-- [Alto Hardware Manual (Part1)](http://bitsavers.org/pdf/xerox/alto/AltoHWRef.part2.pdf)
+- [Alto Hardware Manual (Part 1)](http://bitsavers.org/pdf/xerox/alto/AltoHWRef.part1.pdf)
+- [Alto Hardware Manual (Part 2)](http://bitsavers.org/pdf/xerox/alto/AltoHWRef.part2.pdf)
 
 ## Apps
 
