@@ -38,6 +38,7 @@ In particular, you may be interested in these ones:
 
 ## Related Pages
 
+- [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1973/unix-v4/)
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix#1970s)
 - [Computer History Wiki ! Unix v3 page](https://gunkies.org/wiki/UNIX_Third_Edition)
 - [Computer History Wiki ! Unix v4 page](https://gunkies.org/wiki/UNIX_Fourth_Edition)
