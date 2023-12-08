@@ -17,7 +17,7 @@ We can run [! PDP7 Unix](/1970s/1970/pdp7unix) on the SIMH PDP-7 emulator. First
 
 You can download the kit needed to run ! PDP7 Unix on the SIMH PDP-7 emulator from [our github repo fork](https://github.com/InstallerLegacy/pdp7-unix) of the original [project to resurrect Unix on the PDP-7 from a scan of the original assembly code](https://github.com/DoctorWkt/pdp7-unix):
 
-- [! PDP7 Unix kit](https://github.com/InstallerLegacy/pdp7-unix/releases/download/20231107/pdp7.zip)
+- [! PDP7 Unix kit](https://github.com/InstallerLegacy/pdp7-unix/releases/latest/download/pdp7.zip)
 
 If you want to build the kit yourself, refer to [our guide on how to do so](/blog/building-pdp7-unix-images-yourself/).
 
