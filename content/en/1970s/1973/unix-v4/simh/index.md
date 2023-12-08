@@ -3,7 +3,7 @@ title: "How to install ! Unix v4 on SIMH?"
 description: 'Sadly, we do not have a complete copy of Unix v4, but we do have a copy of a kernel that is from between v3 and v4. We can use that kernel with v5 userland.'
 date: 2023-11-30T09:08:56+05:30
 draft: false
-images: [unix-v4-SIMH--5.webp]
+images: [unix-v4-SIMH-5.webp]
 type: docs
 weight: 320001
 ---
@@ -74,7 +74,7 @@ chmod +x unix-v4.sh
 
 Now you can start the VM using the shell script. For example, on KDE you can right-click the file and choose `Run in Konsole` or on GNOME, where you can right-click the file and choose `Run as executable`. The VM will start.
 
-See the [manuals section](/1970s/1973/unix-v4/#manuals) on the [main ! Unix-v4 page](/1970s/1973/unix-v3) to learn how to use it.
+See the [manuals section](/1970s/1973/unix-v4/#manuals) on the [main ! Unix-v4 page](/1970s/1973/unix-v4) to learn how to use it.
 
 ### Windows
 
