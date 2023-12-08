@@ -51,7 +51,7 @@ att rk1 nsys.binary
 boot rk0
 ```
 
-You will get to a `@` prompt. Type `unix` and press enter to boot into Unix v5. Once you get a `login: ` prompt, type `root` and press enter. Now we need to setup the `/dev/` entries of the disks. Run the following commands:
+You will get to a `@` prompt. Type `unix` and press enter to boot into Unix v5. Once you get a `login:` prompt, type `root` and press enter. Now we need to setup the `/dev/` entries of the disks. Run the following commands:
 
 ```bash
 /etc/mknod /dev/rrk0 b 0 0
