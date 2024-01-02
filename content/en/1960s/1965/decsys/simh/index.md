@@ -85,6 +85,10 @@ On Windows, you need to place the `PDP7.exe` file you downloaded in [this tutori
 
 ## Video tutorial
 
-Do you want to follow the tutorial by watching a video? We will post a video on our [youtube channel](https://www.youtube.com/@virtua1hub) soon.
+Do you want to follow the tutorial by watching a video? Here it is:
+
+{{< youtube osLz_k75ibE >}}
+
+<br>
 
 Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://virtualhub.eu.org/1960s/1965/decsys/simh/).
